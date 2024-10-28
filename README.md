@@ -1,0 +1,2 @@
+- Saving as JSON as the string arrays of directors and writers behave much more nicely instead of saving as csv which saves them as strings
+- Will provide a notebook with more detailed structure to give to them, this is just a fast solution (the scraping part took me 30min during design)
