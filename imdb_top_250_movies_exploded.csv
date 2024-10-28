@@ -1,0 +1,836 @@
+,title,year,rating,directors,movie_stars
+0,The Shawshank Redemption,1994,9.3,Frank Darabont,Tim Robbins
+0,The Shawshank Redemption,1994,9.3,Frank Darabont,Morgan Freeman
+0,The Shawshank Redemption,1994,9.3,Frank Darabont,Bob Gunton
+1,The Godfather,1972,9.2,Francis Ford Coppola,Marlon Brando
+1,The Godfather,1972,9.2,Francis Ford Coppola,Al Pacino
+1,The Godfather,1972,9.2,Francis Ford Coppola,James Caan
+2,The Dark Knight,2008,9.0,Christopher Nolan,Christian Bale
+2,The Dark Knight,2008,9.0,Christopher Nolan,Heath Ledger
+2,The Dark Knight,2008,9.0,Christopher Nolan,Aaron Eckhart
+3,The Godfather Part II,1974,9.0,Francis Ford Coppola,Al Pacino
+3,The Godfather Part II,1974,9.0,Francis Ford Coppola,Robert De Niro
+3,The Godfather Part II,1974,9.0,Francis Ford Coppola,Robert Duvall
+4,12 Angry Men,1957,9.0,Sidney Lumet,Henry Fonda
+4,12 Angry Men,1957,9.0,Sidney Lumet,Lee J. Cobb
+4,12 Angry Men,1957,9.0,Sidney Lumet,Martin Balsam
+5,The Lord of the Rings: The Return of the King,2003,9.0,Peter Jackson,Elijah Wood
+5,The Lord of the Rings: The Return of the King,2003,9.0,Peter Jackson,Viggo Mortensen
+5,The Lord of the Rings: The Return of the King,2003,9.0,Peter Jackson,Ian McKellen
+6,Schindler's List,1993,9.0,Steven Spielberg,Liam Neeson
+6,Schindler's List,1993,9.0,Steven Spielberg,Ralph Fiennes
+6,Schindler's List,1993,9.0,Steven Spielberg,Ben Kingsley
+7,Pulp Fiction,1994,8.9,Quentin Tarantino,John Travolta
+7,Pulp Fiction,1994,8.9,Quentin Tarantino,Uma Thurman
+7,Pulp Fiction,1994,8.9,Quentin Tarantino,Samuel L. Jackson
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,Peter Jackson,Elijah Wood
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,Peter Jackson,Ian McKellen
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,Peter Jackson,Orlando Bloom
+9,"The Good, the Bad and the Ugly",1966,8.8,Sergio Leone,Clint Eastwood
+9,"The Good, the Bad and the Ugly",1966,8.8,Sergio Leone,Eli Wallach
+9,"The Good, the Bad and the Ugly",1966,8.8,Sergio Leone,Lee Van Cleef
+10,Forrest Gump,1994,8.8,Robert Zemeckis,Tom Hanks
+10,Forrest Gump,1994,8.8,Robert Zemeckis,Robin Wright
+10,Forrest Gump,1994,8.8,Robert Zemeckis,Gary Sinise
+11,The Lord of the Rings: The Two Towers,2002,8.8,Peter Jackson,Elijah Wood
+11,The Lord of the Rings: The Two Towers,2002,8.8,Peter Jackson,Ian McKellen
+11,The Lord of the Rings: The Two Towers,2002,8.8,Peter Jackson,Viggo Mortensen
+12,Fight Club,1999,8.8,David Fincher,Brad Pitt
+12,Fight Club,1999,8.8,David Fincher,Edward Norton
+12,Fight Club,1999,8.8,David Fincher,Meat Loaf
+13,Inception,2010,8.8,Christopher Nolan,Leonardo DiCaprio
+13,Inception,2010,8.8,Christopher Nolan,Joseph Gordon-Levitt
+13,Inception,2010,8.8,Christopher Nolan,Elliot Page
+14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,Mark Hamill
+14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,Harrison Ford
+14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,Carrie Fisher
+15,The Matrix,1999,8.7,Lana Wachowski,Keanu Reeves
+15,The Matrix,1999,8.7,Lana Wachowski,Laurence Fishburne
+15,The Matrix,1999,8.7,Lana Wachowski,Carrie-Anne Moss
+15,The Matrix,1999,8.7,Lilly Wachowski,Keanu Reeves
+15,The Matrix,1999,8.7,Lilly Wachowski,Laurence Fishburne
+15,The Matrix,1999,8.7,Lilly Wachowski,Carrie-Anne Moss
+16,Goodfellas,1990,8.7,Martin Scorsese,Robert De Niro
+16,Goodfellas,1990,8.7,Martin Scorsese,Ray Liotta
+16,Goodfellas,1990,8.7,Martin Scorsese,Joe Pesci
+17,One Flew Over the Cuckoo's Nest,1975,8.7,Milos Forman,Jack Nicholson
+17,One Flew Over the Cuckoo's Nest,1975,8.7,Milos Forman,Louise Fletcher
+17,One Flew Over the Cuckoo's Nest,1975,8.7,Milos Forman,Michael Berryman
+18,Interstellar,2014,8.7,Christopher Nolan,Matthew McConaughey
+18,Interstellar,2014,8.7,Christopher Nolan,Anne Hathaway
+18,Interstellar,2014,8.7,Christopher Nolan,Jessica Chastain
+19,Se7en,1995,8.6,David Fincher,Morgan Freeman
+19,Se7en,1995,8.6,David Fincher,Brad Pitt
+19,Se7en,1995,8.6,David Fincher,Kevin Spacey
+20,It's a Wonderful Life,1946,8.6,Frank Capra,James Stewart
+20,It's a Wonderful Life,1946,8.6,Frank Capra,Donna Reed
+20,It's a Wonderful Life,1946,8.6,Frank Capra,Lionel Barrymore
+21,Seven Samurai,1954,8.6,Akira Kurosawa,Toshirô Mifune
+21,Seven Samurai,1954,8.6,Akira Kurosawa,Takashi Shimura
+21,Seven Samurai,1954,8.6,Akira Kurosawa,Keiko Tsushima
+22,The Silence of the Lambs,1991,8.6,Jonathan Demme,Jodie Foster
+22,The Silence of the Lambs,1991,8.6,Jonathan Demme,Anthony Hopkins
+22,The Silence of the Lambs,1991,8.6,Jonathan Demme,Scott Glenn
+23,Saving Private Ryan,1998,8.6,Steven Spielberg,Tom Hanks
+23,Saving Private Ryan,1998,8.6,Steven Spielberg,Matt Damon
+23,Saving Private Ryan,1998,8.6,Steven Spielberg,Tom Sizemore
+24,City of God,2002,8.6,Fernando Meirelles,Alexandre Rodrigues
+24,City of God,2002,8.6,Fernando Meirelles,Leandro Firmino
+24,City of God,2002,8.6,Fernando Meirelles,Matheus Nachtergaele
+24,City of God,2002,8.6,Kátia Lund,Alexandre Rodrigues
+24,City of God,2002,8.6,Kátia Lund,Leandro Firmino
+24,City of God,2002,8.6,Kátia Lund,Matheus Nachtergaele
+25,Life Is Beautiful,1997,8.6,Roberto Benigni,Roberto Benigni
+25,Life Is Beautiful,1997,8.6,Roberto Benigni,Nicoletta Braschi
+25,Life Is Beautiful,1997,8.6,Roberto Benigni,Giorgio Cantarini
+26,The Green Mile,1999,8.6,Frank Darabont,Tom Hanks
+26,The Green Mile,1999,8.6,Frank Darabont,Michael Clarke Duncan
+26,The Green Mile,1999,8.6,Frank Darabont,David Morse
+27,Terminator 2: Judgment Day,1991,8.6,James Cameron,Arnold Schwarzenegger
+27,Terminator 2: Judgment Day,1991,8.6,James Cameron,Linda Hamilton
+27,Terminator 2: Judgment Day,1991,8.6,James Cameron,Edward Furlong
+28,Star Wars: Episode IV - A New Hope,1977,8.6,George Lucas,Mark Hamill
+28,Star Wars: Episode IV - A New Hope,1977,8.6,George Lucas,Harrison Ford
+28,Star Wars: Episode IV - A New Hope,1977,8.6,George Lucas,Carrie Fisher
+29,Back to the Future,1985,8.5,Robert Zemeckis,Michael J. Fox
+29,Back to the Future,1985,8.5,Robert Zemeckis,Christopher Lloyd
+29,Back to the Future,1985,8.5,Robert Zemeckis,Lea Thompson
+30,Spirited Away,2001,8.6,Hayao Miyazaki,Daveigh Chase
+30,Spirited Away,2001,8.6,Hayao Miyazaki,Suzanne Pleshette
+30,Spirited Away,2001,8.6,Hayao Miyazaki,Miyu Irino
+31,The Pianist,2002,8.5,Roman Polanski,Adrien Brody
+31,The Pianist,2002,8.5,Roman Polanski,Thomas Kretschmann
+31,The Pianist,2002,8.5,Roman Polanski,Frank Finlay
+32,Parasite,2019,8.5,Bong Joon Ho,Song Kang-ho
+32,Parasite,2019,8.5,Bong Joon Ho,Lee Sun-kyun
+32,Parasite,2019,8.5,Bong Joon Ho,Cho Yeo-jeong
+33,Psycho,1960,8.5,Alfred Hitchcock,Anthony Perkins
+33,Psycho,1960,8.5,Alfred Hitchcock,Janet Leigh
+33,Psycho,1960,8.5,Alfred Hitchcock,Vera Miles
+34,Gladiator,2000,8.5,Ridley Scott,Russell Crowe
+34,Gladiator,2000,8.5,Ridley Scott,Joaquin Phoenix
+34,Gladiator,2000,8.5,Ridley Scott,Connie Nielsen
+35,The Lion King,1994,8.5,Roger Allers,Matthew Broderick
+35,The Lion King,1994,8.5,Roger Allers,Jeremy Irons
+35,The Lion King,1994,8.5,Roger Allers,James Earl Jones
+35,The Lion King,1994,8.5,Rob Minkoff,Matthew Broderick
+35,The Lion King,1994,8.5,Rob Minkoff,Jeremy Irons
+35,The Lion King,1994,8.5,Rob Minkoff,James Earl Jones
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Joaquim Dos Santos,Shameik Moore
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Joaquim Dos Santos,Hailee Steinfeld
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Joaquim Dos Santos,Brian Tyree Henry
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Kemp Powers,Shameik Moore
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Kemp Powers,Hailee Steinfeld
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Kemp Powers,Brian Tyree Henry
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Justin K. Thompson,Shameik Moore
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Justin K. Thompson,Hailee Steinfeld
+36,Spider-Man: Across the Spider-Verse,2023,8.6,Justin K. Thompson,Brian Tyree Henry
+37,The Departed,2006,8.5,Martin Scorsese,Leonardo DiCaprio
+37,The Departed,2006,8.5,Martin Scorsese,Matt Damon
+37,The Departed,2006,8.5,Martin Scorsese,Jack Nicholson
+38,Whiplash,2014,8.5,Damien Chazelle,Miles Teller
+38,Whiplash,2014,8.5,Damien Chazelle,J.K. Simmons
+38,Whiplash,2014,8.5,Damien Chazelle,Melissa Benoist
+39,Grave of the Fireflies,1988,8.5,Isao Takahata,Tsutomu Tatsumi
+39,Grave of the Fireflies,1988,8.5,Isao Takahata,Ayano Shiraishi
+39,Grave of the Fireflies,1988,8.5,Isao Takahata,Akemi Yamaguchi
+40,American History X,1998,8.5,Tony Kaye,Edward Norton
+40,American History X,1998,8.5,Tony Kaye,Edward Furlong
+40,American History X,1998,8.5,Tony Kaye,Beverly D'Angelo
+41,Léon: The Professional,1994,8.5,Luc Besson,Jean Reno
+41,Léon: The Professional,1994,8.5,Luc Besson,Gary Oldman
+41,Léon: The Professional,1994,8.5,Luc Besson,Natalie Portman
+42,The Prestige,2006,8.5,Christopher Nolan,Christian Bale
+42,The Prestige,2006,8.5,Christopher Nolan,Hugh Jackman
+42,The Prestige,2006,8.5,Christopher Nolan,Scarlett Johansson
+43,Harakiri,1962,8.6,Masaki Kobayashi,Tatsuya Nakadai
+43,Harakiri,1962,8.6,Masaki Kobayashi,Akira Ishihama
+43,Harakiri,1962,8.6,Masaki Kobayashi,Shima Iwashita
+44,Casablanca,1942,8.5,Michael Curtiz,Humphrey Bogart
+44,Casablanca,1942,8.5,Michael Curtiz,Ingrid Bergman
+44,Casablanca,1942,8.5,Michael Curtiz,Paul Henreid
+45,The Usual Suspects,1995,8.5,Bryan Singer,Kevin Spacey
+45,The Usual Suspects,1995,8.5,Bryan Singer,Gabriel Byrne
+45,The Usual Suspects,1995,8.5,Bryan Singer,Chazz Palminteri
+46,Dune: Part Two,2024,8.5,Denis Villeneuve,Timothée Chalamet
+46,Dune: Part Two,2024,8.5,Denis Villeneuve,Zendaya
+46,Dune: Part Two,2024,8.5,Denis Villeneuve,Rebecca Ferguson
+47,The Intouchables,2011,8.5,Olivier Nakache,François Cluzet
+47,The Intouchables,2011,8.5,Olivier Nakache,Omar Sy
+47,The Intouchables,2011,8.5,Olivier Nakache,Anne Le Ny
+47,The Intouchables,2011,8.5,Éric Toledano,François Cluzet
+47,The Intouchables,2011,8.5,Éric Toledano,Omar Sy
+47,The Intouchables,2011,8.5,Éric Toledano,Anne Le Ny
+48,Cinema Paradiso,1988,8.5,Giuseppe Tornatore,Philippe Noiret
+48,Cinema Paradiso,1988,8.5,Giuseppe Tornatore,Enzo Cannavale
+48,Cinema Paradiso,1988,8.5,Giuseppe Tornatore,Antonella Attili
+49,Modern Times,1936,8.5,Charles Chaplin,Charles Chaplin
+49,Modern Times,1936,8.5,Charles Chaplin,Paulette Goddard
+49,Modern Times,1936,8.5,Charles Chaplin,Henry Bergman
+50,Alien,1979,8.5,Ridley Scott,Sigourney Weaver
+50,Alien,1979,8.5,Ridley Scott,Tom Skerritt
+50,Alien,1979,8.5,Ridley Scott,John Hurt
+51,Rear Window,1954,8.5,Alfred Hitchcock,James Stewart
+51,Rear Window,1954,8.5,Alfred Hitchcock,Grace Kelly
+51,Rear Window,1954,8.5,Alfred Hitchcock,Wendell Corey
+52,Once Upon a Time in the West,1968,8.5,Sergio Leone,Henry Fonda
+52,Once Upon a Time in the West,1968,8.5,Sergio Leone,Charles Bronson
+52,Once Upon a Time in the West,1968,8.5,Sergio Leone,Claudia Cardinale
+53,Django Unchained,2012,8.5,Quentin Tarantino,Jamie Foxx
+53,Django Unchained,2012,8.5,Quentin Tarantino,Christoph Waltz
+53,Django Unchained,2012,8.5,Quentin Tarantino,Leonardo DiCaprio
+54,City Lights,1931,8.5,Charles Chaplin,Charles Chaplin
+54,City Lights,1931,8.5,Charles Chaplin,Virginia Cherrill
+54,City Lights,1931,8.5,Charles Chaplin,Florence Lee
+55,Apocalypse Now,1979,8.4,Francis Ford Coppola,Martin Sheen
+55,Apocalypse Now,1979,8.4,Francis Ford Coppola,Marlon Brando
+55,Apocalypse Now,1979,8.4,Francis Ford Coppola,Robert Duvall
+56,Memento,2000,8.4,Christopher Nolan,Guy Pearce
+56,Memento,2000,8.4,Christopher Nolan,Carrie-Anne Moss
+56,Memento,2000,8.4,Christopher Nolan,Joe Pantoliano
+57,WALL·E,2008,8.4,Andrew Stanton,Ben Burtt
+57,WALL·E,2008,8.4,Andrew Stanton,Elissa Knight
+57,WALL·E,2008,8.4,Andrew Stanton,Jeff Garlin
+58,Raiders of the Lost Ark,1981,8.4,Steven Spielberg,Harrison Ford
+58,Raiders of the Lost Ark,1981,8.4,Steven Spielberg,Karen Allen
+58,Raiders of the Lost Ark,1981,8.4,Steven Spielberg,Paul Freeman
+59,12th Fail,2023,8.8,Vidhu Vinod Chopra,Vikrant Massey
+59,12th Fail,2023,8.8,Vidhu Vinod Chopra,Medha Shankr
+59,12th Fail,2023,8.8,Vidhu Vinod Chopra,Anant Joshi
+60,The Lives of Others,2006,8.4,Florian Henckel von Donnersmarck,Ulrich Mühe
+60,The Lives of Others,2006,8.4,Florian Henckel von Donnersmarck,Martina Gedeck
+60,The Lives of Others,2006,8.4,Florian Henckel von Donnersmarck,Sebastian Koch
+61,Sunset Boulevard,1950,8.4,Billy Wilder,William Holden
+61,Sunset Boulevard,1950,8.4,Billy Wilder,Gloria Swanson
+61,Sunset Boulevard,1950,8.4,Billy Wilder,Erich von Stroheim
+62,Avengers: Infinity War,2018,8.4,Anthony Russo,Robert Downey Jr.
+62,Avengers: Infinity War,2018,8.4,Anthony Russo,Chris Hemsworth
+62,Avengers: Infinity War,2018,8.4,Anthony Russo,Mark Ruffalo
+62,Avengers: Infinity War,2018,8.4,Joe Russo,Robert Downey Jr.
+62,Avengers: Infinity War,2018,8.4,Joe Russo,Chris Hemsworth
+62,Avengers: Infinity War,2018,8.4,Joe Russo,Mark Ruffalo
+63,Paths of Glory,1957,8.4,Stanley Kubrick,Kirk Douglas
+63,Paths of Glory,1957,8.4,Stanley Kubrick,Ralph Meeker
+63,Paths of Glory,1957,8.4,Stanley Kubrick,Adolphe Menjou
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Bob Persichetti,Shameik Moore
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Bob Persichetti,Jake Johnson
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Bob Persichetti,Hailee Steinfeld
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Peter Ramsey,Shameik Moore
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Peter Ramsey,Jake Johnson
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Peter Ramsey,Hailee Steinfeld
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Rodney Rothman,Shameik Moore
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Rodney Rothman,Jake Johnson
+64,Spider-Man: Into the Spider-Verse,2018,8.4,Rodney Rothman,Hailee Steinfeld
+65,Witness for the Prosecution,1957,8.4,Billy Wilder,Tyrone Power
+65,Witness for the Prosecution,1957,8.4,Billy Wilder,Marlene Dietrich
+65,Witness for the Prosecution,1957,8.4,Billy Wilder,Charles Laughton
+66,The Shining,1980,8.4,Stanley Kubrick,Jack Nicholson
+66,The Shining,1980,8.4,Stanley Kubrick,Shelley Duvall
+66,The Shining,1980,8.4,Stanley Kubrick,Danny Lloyd
+67,The Great Dictator,1940,8.4,Charles Chaplin,Charles Chaplin
+67,The Great Dictator,1940,8.4,Charles Chaplin,Paulette Goddard
+67,The Great Dictator,1940,8.4,Charles Chaplin,Jack Oakie
+68,Aliens,1986,8.4,James Cameron,Sigourney Weaver
+68,Aliens,1986,8.4,James Cameron,Michael Biehn
+68,Aliens,1986,8.4,James Cameron,Carrie Henn
+69,Inglourious Basterds,2009,8.4,Quentin Tarantino,Brad Pitt
+69,Inglourious Basterds,2009,8.4,Quentin Tarantino,Diane Kruger
+69,Inglourious Basterds,2009,8.4,Quentin Tarantino,Eli Roth
+70,The Dark Knight Rises,2012,8.4,Christopher Nolan,Christian Bale
+70,The Dark Knight Rises,2012,8.4,Christopher Nolan,Tom Hardy
+70,The Dark Knight Rises,2012,8.4,Christopher Nolan,Anne Hathaway
+71,Coco,2017,8.4,Lee Unkrich,Anthony Gonzalez
+71,Coco,2017,8.4,Lee Unkrich,Gael García Bernal
+71,Coco,2017,8.4,Lee Unkrich,Benjamin Bratt
+71,Coco,2017,8.4,Adrian Molina,Anthony Gonzalez
+71,Coco,2017,8.4,Adrian Molina,Gael García Bernal
+71,Coco,2017,8.4,Adrian Molina,Benjamin Bratt
+72,Amadeus,1984,8.4,Milos Forman,F. Murray Abraham
+72,Amadeus,1984,8.4,Milos Forman,Tom Hulce
+72,Amadeus,1984,8.4,Milos Forman,Elizabeth Berridge
+73,Toy Story,1995,8.3,John Lasseter,Tom Hanks
+73,Toy Story,1995,8.3,John Lasseter,Tim Allen
+73,Toy Story,1995,8.3,John Lasseter,Don Rickles
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Stanley Kubrick,Peter Sellers
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Stanley Kubrick,George C. Scott
+74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Stanley Kubrick,Sterling Hayden
+75,Oldboy,2003,8.3,Park Chan-wook,Choi Min-sik
+75,Oldboy,2003,8.3,Park Chan-wook,Yoo Ji-tae
+75,Oldboy,2003,8.3,Park Chan-wook,Kang Hye-jeong
+76,American Beauty,1999,8.3,Sam Mendes,Kevin Spacey
+76,American Beauty,1999,8.3,Sam Mendes,Annette Bening
+76,American Beauty,1999,8.3,Sam Mendes,Thora Birch
+77,Avengers: Endgame,2019,8.4,Anthony Russo,Robert Downey Jr.
+77,Avengers: Endgame,2019,8.4,Anthony Russo,Chris Evans
+77,Avengers: Endgame,2019,8.4,Anthony Russo,Mark Ruffalo
+77,Avengers: Endgame,2019,8.4,Joe Russo,Robert Downey Jr.
+77,Avengers: Endgame,2019,8.4,Joe Russo,Chris Evans
+77,Avengers: Endgame,2019,8.4,Joe Russo,Mark Ruffalo
+78,Das Boot,1981,8.4,Wolfgang Petersen,Jürgen Prochnow
+78,Das Boot,1981,8.4,Wolfgang Petersen,Herbert Grönemeyer
+78,Das Boot,1981,8.4,Wolfgang Petersen,Klaus Wennemann
+79,Braveheart,1995,8.3,Mel Gibson,Mel Gibson
+79,Braveheart,1995,8.3,Mel Gibson,Sophie Marceau
+79,Braveheart,1995,8.3,Mel Gibson,Patrick McGoohan
+80,Good Will Hunting,1997,8.3,Gus Van Sant,Robin Williams
+80,Good Will Hunting,1997,8.3,Gus Van Sant,Matt Damon
+80,Good Will Hunting,1997,8.3,Gus Van Sant,Ben Affleck
+81,Princess Mononoke,1997,8.3,Hayao Miyazaki,Yôji Matsuda
+81,Princess Mononoke,1997,8.3,Hayao Miyazaki,Yuriko Ishida
+81,Princess Mononoke,1997,8.3,Hayao Miyazaki,Yûko Tanaka
+82,Your Name.,2016,8.4,Makoto Shinkai,Ryunosuke Kamiki
+82,Your Name.,2016,8.4,Makoto Shinkai,Mone Kamishiraishi
+82,Your Name.,2016,8.4,Makoto Shinkai,Ryo Narita
+83,Joker,2019,8.4,Todd Phillips,Joaquin Phoenix
+83,Joker,2019,8.4,Todd Phillips,Robert De Niro
+83,Joker,2019,8.4,Todd Phillips,Zazie Beetz
+84,High and Low,1963,8.4,Akira Kurosawa,Toshirô Mifune
+84,High and Low,1963,8.4,Akira Kurosawa,Yutaka Sada
+84,High and Low,1963,8.4,Akira Kurosawa,Tatsuya Nakadai
+85,3 Idiots,2009,8.4,Rajkumar Hirani,Aamir Khan
+85,3 Idiots,2009,8.4,Rajkumar Hirani,Madhavan
+85,3 Idiots,2009,8.4,Rajkumar Hirani,Mona Singh
+86,Once Upon a Time in America,1984,8.3,Sergio Leone,Robert De Niro
+86,Once Upon a Time in America,1984,8.3,Sergio Leone,James Woods
+86,Once Upon a Time in America,1984,8.3,Sergio Leone,Elizabeth McGovern
+87,Singin' in the Rain,1952,8.3,Stanley Donen,Gene Kelly
+87,Singin' in the Rain,1952,8.3,Stanley Donen,Donald O'Connor
+87,Singin' in the Rain,1952,8.3,Stanley Donen,Debbie Reynolds
+87,Singin' in the Rain,1952,8.3,Gene Kelly,Gene Kelly
+87,Singin' in the Rain,1952,8.3,Gene Kelly,Donald O'Connor
+87,Singin' in the Rain,1952,8.3,Gene Kelly,Debbie Reynolds
+88,Capernaum,2018,8.4,Nadine Labaki,Zain Al Rafeea
+88,Capernaum,2018,8.4,Nadine Labaki,Yordanos Shiferaw
+88,Capernaum,2018,8.4,Nadine Labaki,Boluwatife Treasure Bankole
+89,Come and See,1985,8.4,Elem Klimov,Aleksey Kravchenko
+89,Come and See,1985,8.4,Elem Klimov,Olga Mironova
+89,Come and See,1985,8.4,Elem Klimov,Liubomiras Laucevicius
+90,Requiem for a Dream,2000,8.3,Darren Aronofsky,Ellen Burstyn
+90,Requiem for a Dream,2000,8.3,Darren Aronofsky,Jared Leto
+90,Requiem for a Dream,2000,8.3,Darren Aronofsky,Jennifer Connelly
+91,Toy Story 3,2010,8.3,Lee Unkrich,Tom Hanks
+91,Toy Story 3,2010,8.3,Lee Unkrich,Tim Allen
+91,Toy Story 3,2010,8.3,Lee Unkrich,Joan Cusack
+92,Star Wars: Episode VI - Return of the Jedi,1983,8.3,Richard Marquand,Mark Hamill
+92,Star Wars: Episode VI - Return of the Jedi,1983,8.3,Richard Marquand,Harrison Ford
+92,Star Wars: Episode VI - Return of the Jedi,1983,8.3,Richard Marquand,Carrie Fisher
+93,The Hunt,2012,8.3,Thomas Vinterberg,Mads Mikkelsen
+93,The Hunt,2012,8.3,Thomas Vinterberg,Thomas Bo Larsen
+93,The Hunt,2012,8.3,Thomas Vinterberg,Annika Wedderkopp
+94,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry,Jim Carrey
+94,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry,Kate Winslet
+94,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry,Tom Wilkinson
+95,2001: A Space Odyssey,1968,8.3,Stanley Kubrick,Keir Dullea
+95,2001: A Space Odyssey,1968,8.3,Stanley Kubrick,Gary Lockwood
+95,2001: A Space Odyssey,1968,8.3,Stanley Kubrick,William Sylvester
+96,Ikiru,1952,8.3,Akira Kurosawa,Takashi Shimura
+96,Ikiru,1952,8.3,Akira Kurosawa,Nobuo Kaneko
+96,Ikiru,1952,8.3,Akira Kurosawa,Shin'ichi Himori
+97,Reservoir Dogs,1992,8.3,Quentin Tarantino,Harvey Keitel
+97,Reservoir Dogs,1992,8.3,Quentin Tarantino,Tim Roth
+97,Reservoir Dogs,1992,8.3,Quentin Tarantino,Michael Madsen
+98,Lawrence of Arabia,1962,8.3,David Lean,Peter O'Toole
+98,Lawrence of Arabia,1962,8.3,David Lean,Alec Guinness
+98,Lawrence of Arabia,1962,8.3,David Lean,Anthony Quinn
+99,The Apartment,1960,8.3,Billy Wilder,Jack Lemmon
+99,The Apartment,1960,8.3,Billy Wilder,Shirley MacLaine
+99,The Apartment,1960,8.3,Billy Wilder,Fred MacMurray
+100,Incendies,2010,8.3,Denis Villeneuve,Lubna Azabal
+100,Incendies,2010,8.3,Denis Villeneuve,Mélissa Désormeaux-Poulin
+100,Incendies,2010,8.3,Denis Villeneuve,Maxim Gaudette
+101,Scarface,1983,8.3,Brian De Palma,Al Pacino
+101,Scarface,1983,8.3,Brian De Palma,Michelle Pfeiffer
+101,Scarface,1983,8.3,Brian De Palma,Steven Bauer
+102,North by Northwest,1959,8.3,Alfred Hitchcock,Cary Grant
+102,North by Northwest,1959,8.3,Alfred Hitchcock,Eva Marie Saint
+102,North by Northwest,1959,8.3,Alfred Hitchcock,James Mason
+103,Double Indemnity,1944,8.3,Billy Wilder,Fred MacMurray
+103,Double Indemnity,1944,8.3,Billy Wilder,Barbara Stanwyck
+103,Double Indemnity,1944,8.3,Billy Wilder,Edward G. Robinson
+104,Citizen Kane,1941,8.3,Orson Welles,Orson Welles
+104,Citizen Kane,1941,8.3,Orson Welles,Joseph Cotten
+104,Citizen Kane,1941,8.3,Orson Welles,Dorothy Comingore
+105,M,1931,8.3,Fritz Lang,Peter Lorre
+105,M,1931,8.3,Fritz Lang,Ellen Widmann
+105,M,1931,8.3,Fritz Lang,Inge Landgut
+106,Oppenheimer,2023,8.3,Christopher Nolan,Cillian Murphy
+106,Oppenheimer,2023,8.3,Christopher Nolan,Emily Blunt
+106,Oppenheimer,2023,8.3,Christopher Nolan,Matt Damon
+107,Vertigo,1958,8.3,Alfred Hitchcock,James Stewart
+107,Vertigo,1958,8.3,Alfred Hitchcock,Kim Novak
+107,Vertigo,1958,8.3,Alfred Hitchcock,Barbara Bel Geddes
+108,Heat,1995,8.3,Michael Mann,Al Pacino
+108,Heat,1995,8.3,Michael Mann,Robert De Niro
+108,Heat,1995,8.3,Michael Mann,Val Kilmer
+109,Full Metal Jacket,1987,8.2,Stanley Kubrick,Matthew Modine
+109,Full Metal Jacket,1987,8.2,Stanley Kubrick,R. Lee Ermey
+109,Full Metal Jacket,1987,8.2,Stanley Kubrick,Vincent D'Onofrio
+110,Amélie,2001,8.3,Jean-Pierre Jeunet,Audrey Tautou
+110,Amélie,2001,8.3,Jean-Pierre Jeunet,Mathieu Kassovitz
+110,Amélie,2001,8.3,Jean-Pierre Jeunet,Rufus
+111,Up,2009,8.3,Pete Docter,Edward Asner
+111,Up,2009,8.3,Pete Docter,Jordan Nagai
+111,Up,2009,8.3,Pete Docter,John Ratzenberger
+111,Up,2009,8.3,Bob Peterson,Edward Asner
+111,Up,2009,8.3,Bob Peterson,Jordan Nagai
+111,Up,2009,8.3,Bob Peterson,John Ratzenberger
+112,A Clockwork Orange,1971,8.2,Stanley Kubrick,Malcolm McDowell
+112,A Clockwork Orange,1971,8.2,Stanley Kubrick,Patrick Magee
+112,A Clockwork Orange,1971,8.2,Stanley Kubrick,Michael Bates
+113,To Kill a Mockingbird,1962,8.3,Robert Mulligan,Gregory Peck
+113,To Kill a Mockingbird,1962,8.3,Robert Mulligan,John Megna
+113,To Kill a Mockingbird,1962,8.3,Robert Mulligan,Frank Overton
+114,A Separation,2011,8.3,Asghar Farhadi,Payman Maadi
+114,A Separation,2011,8.3,Asghar Farhadi,Leila Hatami
+114,A Separation,2011,8.3,Asghar Farhadi,Sareh Bayat
+115,The Sting,1973,8.3,George Roy Hill,Paul Newman
+115,The Sting,1973,8.3,George Roy Hill,Robert Redford
+115,The Sting,1973,8.3,George Roy Hill,Robert Shaw
+116,Die Hard,1988,8.2,John McTiernan,Bruce Willis
+116,Die Hard,1988,8.2,John McTiernan,Alan Rickman
+116,Die Hard,1988,8.2,John McTiernan,Bonnie Bedelia
+117,Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg,Harrison Ford
+117,Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg,Sean Connery
+117,Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg,Alison Doody
+118,Like Stars on Earth,2007,8.3,Aamir Khan,Darsheel Safary
+118,Like Stars on Earth,2007,8.3,Aamir Khan,Aamir Khan
+118,Like Stars on Earth,2007,8.3,Aamir Khan,Tisca Chopra
+118,Like Stars on Earth,2007,8.3,Amole Gupte,Darsheel Safary
+118,Like Stars on Earth,2007,8.3,Amole Gupte,Aamir Khan
+118,Like Stars on Earth,2007,8.3,Amole Gupte,Tisca Chopra
+119,Metropolis,1927,8.3,Fritz Lang,Brigitte Helm
+119,Metropolis,1927,8.3,Fritz Lang,Alfred Abel
+119,Metropolis,1927,8.3,Fritz Lang,Gustav Fröhlich
+120,Snatch,2000,8.2,Guy Ritchie,Jason Statham
+120,Snatch,2000,8.2,Guy Ritchie,Brad Pitt
+120,Snatch,2000,8.2,Guy Ritchie,Stephen Graham
+121,1917,2019,8.2,Sam Mendes,Dean-Charles Chapman
+121,1917,2019,8.2,Sam Mendes,George MacKay
+121,1917,2019,8.2,Sam Mendes,Daniel Mays
+122,L.A. Confidential,1997,8.2,Curtis Hanson,Kevin Spacey
+122,L.A. Confidential,1997,8.2,Curtis Hanson,Russell Crowe
+122,L.A. Confidential,1997,8.2,Curtis Hanson,Guy Pearce
+123,Bicycle Thieves,1948,8.3,Vittorio De Sica,Lamberto Maggiorani
+123,Bicycle Thieves,1948,8.3,Vittorio De Sica,Enzo Staiola
+123,Bicycle Thieves,1948,8.3,Vittorio De Sica,Lianella Carell
+124,Downfall,2004,8.2,Oliver Hirschbiegel,Bruno Ganz
+124,Downfall,2004,8.2,Oliver Hirschbiegel,Alexandra Maria Lara
+124,Downfall,2004,8.2,Oliver Hirschbiegel,Ulrich Matthes
+125,Hamilton,2020,8.3,Thomas Kail,Lin-Manuel Miranda
+125,Hamilton,2020,8.3,Thomas Kail,Phillipa Soo
+125,Hamilton,2020,8.3,Thomas Kail,Leslie Odom Jr.
+126,Taxi Driver,1976,8.2,Martin Scorsese,Robert De Niro
+126,Taxi Driver,1976,8.2,Martin Scorsese,Jodie Foster
+126,Taxi Driver,1976,8.2,Martin Scorsese,Cybill Shepherd
+127,Dangal,2016,8.3,Nitesh Tiwari,Aamir Khan
+127,Dangal,2016,8.3,Nitesh Tiwari,Sakshi Tanwar
+127,Dangal,2016,8.3,Nitesh Tiwari,Fatima Sana Shaikh
+128,Batman Begins,2005,8.2,Christopher Nolan,Christian Bale
+128,Batman Begins,2005,8.2,Christopher Nolan,Michael Caine
+128,Batman Begins,2005,8.2,Christopher Nolan,Ken Watanabe
+129,The Wolf of Wall Street,2013,8.2,Martin Scorsese,Leonardo DiCaprio
+129,The Wolf of Wall Street,2013,8.2,Martin Scorsese,Jonah Hill
+129,The Wolf of Wall Street,2013,8.2,Martin Scorsese,Margot Robbie
+130,For a Few Dollars More,1965,8.2,Sergio Leone,Clint Eastwood
+130,For a Few Dollars More,1965,8.2,Sergio Leone,Lee Van Cleef
+130,For a Few Dollars More,1965,8.2,Sergio Leone,Gian Maria Volontè
+131,Green Book,2018,8.2,Peter Farrelly,Viggo Mortensen
+131,Green Book,2018,8.2,Peter Farrelly,Mahershala Ali
+131,Green Book,2018,8.2,Peter Farrelly,Linda Cardellini
+132,Some Like It Hot,1959,8.2,Billy Wilder,Marilyn Monroe
+132,Some Like It Hot,1959,8.2,Billy Wilder,Tony Curtis
+132,Some Like It Hot,1959,8.2,Billy Wilder,Jack Lemmon
+133,The Truman Show,1998,8.2,Peter Weir,Jim Carrey
+133,The Truman Show,1998,8.2,Peter Weir,Ed Harris
+133,The Truman Show,1998,8.2,Peter Weir,Laura Linney
+134,Judgment at Nuremberg,1961,8.3,Stanley Kramer,Spencer Tracy
+134,Judgment at Nuremberg,1961,8.3,Stanley Kramer,Burt Lancaster
+134,Judgment at Nuremberg,1961,8.3,Stanley Kramer,Richard Widmark
+135,The Kid,1921,8.2,Charles Chaplin,Charles Chaplin
+135,The Kid,1921,8.2,Charles Chaplin,Edna Purviance
+135,The Kid,1921,8.2,Charles Chaplin,Jackie Coogan
+136,The Father,2020,8.2,Florian Zeller,Anthony Hopkins
+136,The Father,2020,8.2,Florian Zeller,Olivia Colman
+136,The Father,2020,8.2,Florian Zeller,Mark Gatiss
+137,All About Eve,1950,8.2,Joseph L. Mankiewicz,Bette Davis
+137,All About Eve,1950,8.2,Joseph L. Mankiewicz,Anne Baxter
+137,All About Eve,1950,8.2,Joseph L. Mankiewicz,George Sanders
+138,Shutter Island,2010,8.2,Martin Scorsese,Leonardo DiCaprio
+138,Shutter Island,2010,8.2,Martin Scorsese,Emily Mortimer
+138,Shutter Island,2010,8.2,Martin Scorsese,Mark Ruffalo
+139,There Will Be Blood,2007,8.2,Paul Thomas Anderson,Daniel Day-Lewis
+139,There Will Be Blood,2007,8.2,Paul Thomas Anderson,Paul Dano
+139,There Will Be Blood,2007,8.2,Paul Thomas Anderson,Ciarán Hinds
+140,Jurassic Park,1993,8.2,Steven Spielberg,Sam Neill
+140,Jurassic Park,1993,8.2,Steven Spielberg,Laura Dern
+140,Jurassic Park,1993,8.2,Steven Spielberg,Jeff Goldblum
+141,Casino,1995,8.2,Martin Scorsese,Robert De Niro
+141,Casino,1995,8.2,Martin Scorsese,Sharon Stone
+141,Casino,1995,8.2,Martin Scorsese,Joe Pesci
+142,Top Gun: Maverick,2022,8.2,Joseph Kosinski,Tom Cruise
+142,Top Gun: Maverick,2022,8.2,Joseph Kosinski,Jennifer Connelly
+142,Top Gun: Maverick,2022,8.2,Joseph Kosinski,Miles Teller
+143,The Sixth Sense,1999,8.2,M. Night Shyamalan,Bruce Willis
+143,The Sixth Sense,1999,8.2,M. Night Shyamalan,Haley Joel Osment
+143,The Sixth Sense,1999,8.2,M. Night Shyamalan,Toni Collette
+144,Ran,1985,8.2,Akira Kurosawa,Tatsuya Nakadai
+144,Ran,1985,8.2,Akira Kurosawa,Akira Terao
+144,Ran,1985,8.2,Akira Kurosawa,Jinpachi Nezu
+145,Pan's Labyrinth,2006,8.2,Guillermo del Toro,Ivana Baquero
+145,Pan's Labyrinth,2006,8.2,Guillermo del Toro,Ariadna Gil
+145,Pan's Labyrinth,2006,8.2,Guillermo del Toro,Sergi López
+146,No Country for Old Men,2007,8.2,Ethan Coen,Tommy Lee Jones
+146,No Country for Old Men,2007,8.2,Ethan Coen,Javier Bardem
+146,No Country for Old Men,2007,8.2,Ethan Coen,Josh Brolin
+146,No Country for Old Men,2007,8.2,Joel Coen,Tommy Lee Jones
+146,No Country for Old Men,2007,8.2,Joel Coen,Javier Bardem
+146,No Country for Old Men,2007,8.2,Joel Coen,Josh Brolin
+147,Unforgiven,1992,8.2,Clint Eastwood,Clint Eastwood
+147,Unforgiven,1992,8.2,Clint Eastwood,Gene Hackman
+147,Unforgiven,1992,8.2,Clint Eastwood,Morgan Freeman
+148,The Thing,1982,8.2,John Carpenter,Kurt Russell
+148,The Thing,1982,8.2,John Carpenter,Wilford Brimley
+148,The Thing,1982,8.2,John Carpenter,Keith David
+149,The Wild Robot,2024,8.3,Chris Sanders,Lupita Nyong'o
+149,The Wild Robot,2024,8.3,Chris Sanders,Pedro Pascal
+149,The Wild Robot,2024,8.3,Chris Sanders,Kit Connor
+150,A Beautiful Mind,2001,8.2,Ron Howard,Russell Crowe
+150,A Beautiful Mind,2001,8.2,Ron Howard,Ed Harris
+150,A Beautiful Mind,2001,8.2,Ron Howard,Jennifer Connelly
+151,Kill Bill: Vol. 1,2003,8.2,Quentin Tarantino,Uma Thurman
+151,Kill Bill: Vol. 1,2003,8.2,Quentin Tarantino,David Carradine
+151,Kill Bill: Vol. 1,2003,8.2,Quentin Tarantino,Daryl Hannah
+152,The Treasure of the Sierra Madre,1948,8.2,John Huston,Humphrey Bogart
+152,The Treasure of the Sierra Madre,1948,8.2,John Huston,Walter Huston
+152,The Treasure of the Sierra Madre,1948,8.2,John Huston,Tim Holt
+153,Yojimbo,1961,8.2,Akira Kurosawa,Toshirô Mifune
+153,Yojimbo,1961,8.2,Akira Kurosawa,Eijirô Tôno
+153,Yojimbo,1961,8.2,Akira Kurosawa,Tatsuya Nakadai
+154,The Great Escape,1963,8.2,John Sturges,Steve McQueen
+154,The Great Escape,1963,8.2,John Sturges,James Garner
+154,The Great Escape,1963,8.2,John Sturges,Richard Attenborough
+155,Finding Nemo,2003,8.2,Andrew Stanton,Albert Brooks
+155,Finding Nemo,2003,8.2,Andrew Stanton,Ellen DeGeneres
+155,Finding Nemo,2003,8.2,Andrew Stanton,Alexander Gould
+155,Finding Nemo,2003,8.2,Lee Unkrich,Albert Brooks
+155,Finding Nemo,2003,8.2,Lee Unkrich,Ellen DeGeneres
+155,Finding Nemo,2003,8.2,Lee Unkrich,Alexander Gould
+156,Prisoners,2013,8.2,Denis Villeneuve,Hugh Jackman
+156,Prisoners,2013,8.2,Denis Villeneuve,Jake Gyllenhaal
+156,Prisoners,2013,8.2,Denis Villeneuve,Viola Davis
+157,Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,Graham Chapman
+157,Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,John Cleese
+157,Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,Eric Idle
+157,Monty Python and the Holy Grail,1975,8.2,Terry Jones,Graham Chapman
+157,Monty Python and the Holy Grail,1975,8.2,Terry Jones,John Cleese
+157,Monty Python and the Holy Grail,1975,8.2,Terry Jones,Eric Idle
+158,Howl's Moving Castle,2004,8.2,Hayao Miyazaki,Chieko Baishô
+158,Howl's Moving Castle,2004,8.2,Hayao Miyazaki,Takuya Kimura
+158,Howl's Moving Castle,2004,8.2,Hayao Miyazaki,Tatsuya Gashûin
+159,The Elephant Man,1980,8.2,David Lynch,Anthony Hopkins
+159,The Elephant Man,1980,8.2,David Lynch,John Hurt
+159,The Elephant Man,1980,8.2,David Lynch,Anne Bancroft
+160,Rashomon,1950,8.2,Akira Kurosawa,Toshirô Mifune
+160,Rashomon,1950,8.2,Akira Kurosawa,Machiko Kyô
+160,Rashomon,1950,8.2,Akira Kurosawa,Masayuki Mori
+161,Dial M for Murder,1954,8.2,Alfred Hitchcock,Ray Milland
+161,Dial M for Murder,1954,8.2,Alfred Hitchcock,Grace Kelly
+161,Dial M for Murder,1954,8.2,Alfred Hitchcock,Robert Cummings
+162,Gone with the Wind,1939,8.2,Victor Fleming,Clark Gable
+162,Gone with the Wind,1939,8.2,Victor Fleming,Vivien Leigh
+162,Gone with the Wind,1939,8.2,Victor Fleming,Thomas Mitchell
+162,Gone with the Wind,1939,8.2,George Cukor,Clark Gable
+162,Gone with the Wind,1939,8.2,George Cukor,Vivien Leigh
+162,Gone with the Wind,1939,8.2,George Cukor,Thomas Mitchell
+162,Gone with the Wind,1939,8.2,Sam Wood,Clark Gable
+162,Gone with the Wind,1939,8.2,Sam Wood,Vivien Leigh
+162,Gone with the Wind,1939,8.2,Sam Wood,Thomas Mitchell
+163,Chinatown,1974,8.1,Roman Polanski,Jack Nicholson
+163,Chinatown,1974,8.1,Roman Polanski,Faye Dunaway
+163,Chinatown,1974,8.1,Roman Polanski,John Huston
+164,The Secret in Their Eyes,2009,8.2,Juan José Campanella,Ricardo Darín
+164,The Secret in Their Eyes,2009,8.2,Juan José Campanella,Soledad Villamil
+164,The Secret in Their Eyes,2009,8.2,Juan José Campanella,Pablo Rago
+165,"Lock, Stock and Two Smoking Barrels",1998,8.1,Guy Ritchie,Jason Flemyng
+165,"Lock, Stock and Two Smoking Barrels",1998,8.1,Guy Ritchie,Dexter Fletcher
+165,"Lock, Stock and Two Smoking Barrels",1998,8.1,Guy Ritchie,Nick Moran
+166,Inside Out,2015,8.1,Pete Docter,Amy Poehler
+166,Inside Out,2015,8.1,Pete Docter,Bill Hader
+166,Inside Out,2015,8.1,Pete Docter,Lewis Black
+166,Inside Out,2015,8.1,Ronnie Del Carmen,Amy Poehler
+166,Inside Out,2015,8.1,Ronnie Del Carmen,Bill Hader
+166,Inside Out,2015,8.1,Ronnie Del Carmen,Lewis Black
+167,V for Vendetta,2005,8.1,James McTeigue,Hugo Weaving
+167,V for Vendetta,2005,8.1,James McTeigue,Natalie Portman
+167,V for Vendetta,2005,8.1,James McTeigue,Rupert Graves
+168,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Martin McDonagh,Frances McDormand
+168,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Martin McDonagh,Woody Harrelson
+168,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Martin McDonagh,Sam Rockwell
+169,Raging Bull,1980,8.1,Martin Scorsese,Robert De Niro
+169,Raging Bull,1980,8.1,Martin Scorsese,Cathy Moriarty
+169,Raging Bull,1980,8.1,Martin Scorsese,Joe Pesci
+170,Trainspotting,1996,8.1,Danny Boyle,Ewan McGregor
+170,Trainspotting,1996,8.1,Danny Boyle,Ewen Bremner
+170,Trainspotting,1996,8.1,Danny Boyle,Jonny Lee Miller
+171,The Bridge on the River Kwai,1957,8.1,David Lean,William Holden
+171,The Bridge on the River Kwai,1957,8.1,David Lean,Alec Guinness
+171,The Bridge on the River Kwai,1957,8.1,David Lean,Jack Hawkins
+172,Klaus,2019,8.2,Sergio Pablos,Jason Schwartzman
+172,Klaus,2019,8.2,Sergio Pablos,J.K. Simmons
+172,Klaus,2019,8.2,Sergio Pablos,Rashida Jones
+172,Klaus,2019,8.2,Carlos Martínez López,Jason Schwartzman
+172,Klaus,2019,8.2,Carlos Martínez López,J.K. Simmons
+172,Klaus,2019,8.2,Carlos Martínez López,Rashida Jones
+173,Catch Me If You Can,2002,8.1,Steven Spielberg,Leonardo DiCaprio
+173,Catch Me If You Can,2002,8.1,Steven Spielberg,Tom Hanks
+173,Catch Me If You Can,2002,8.1,Steven Spielberg,Christopher Walken
+174,Fargo,1996,8.1,Joel Coen,William H. Macy
+174,Fargo,1996,8.1,Joel Coen,Frances McDormand
+174,Fargo,1996,8.1,Joel Coen,Steve Buscemi
+174,Fargo,1996,8.1,Ethan Coen,William H. Macy
+174,Fargo,1996,8.1,Ethan Coen,Frances McDormand
+174,Fargo,1996,8.1,Ethan Coen,Steve Buscemi
+175,Warrior,2011,8.1,Gavin O'Connor,Tom Hardy
+175,Warrior,2011,8.1,Gavin O'Connor,Nick Nolte
+175,Warrior,2011,8.1,Gavin O'Connor,Joel Edgerton
+176,Spider-Man: No Way Home,2021,8.2,Jon Watts,Tom Holland
+176,Spider-Man: No Way Home,2021,8.2,Jon Watts,Zendaya
+176,Spider-Man: No Way Home,2021,8.2,Jon Watts,Benedict Cumberbatch
+177,Gran Torino,2008,8.1,Clint Eastwood,Clint Eastwood
+177,Gran Torino,2008,8.1,Clint Eastwood,Bee Vang
+177,Gran Torino,2008,8.1,Clint Eastwood,Christopher Carley
+178,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates,Daniel Radcliffe
+178,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates,Emma Watson
+178,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates,Rupert Grint
+179,Million Dollar Baby,2004,8.1,Clint Eastwood,Hilary Swank
+179,Million Dollar Baby,2004,8.1,Clint Eastwood,Clint Eastwood
+179,Million Dollar Baby,2004,8.1,Clint Eastwood,Morgan Freeman
+180,My Neighbor Totoro,1988,8.1,Hayao Miyazaki,Hitoshi Takagi
+180,My Neighbor Totoro,1988,8.1,Hayao Miyazaki,Noriko Hidaka
+180,My Neighbor Totoro,1988,8.1,Hayao Miyazaki,Chika Sakamoto
+181,Mad Max: Fury Road,2015,8.1,George Miller,Tom Hardy
+181,Mad Max: Fury Road,2015,8.1,George Miller,Charlize Theron
+181,Mad Max: Fury Road,2015,8.1,George Miller,Nicholas Hoult
+182,Children of Heaven,1997,8.2,Majid Majidi,Mohammad Amir Naji
+182,Children of Heaven,1997,8.2,Majid Majidi,Amir Farrokh Hashemian
+182,Children of Heaven,1997,8.2,Majid Majidi,Bahare Seddiqi
+183,Ben-Hur,1959,8.1,William Wyler,Charlton Heston
+183,Ben-Hur,1959,8.1,William Wyler,Jack Hawkins
+183,Ben-Hur,1959,8.1,William Wyler,Stephen Boyd
+184,12 Years a Slave,2013,8.1,Steve McQueen,Chiwetel Ejiofor
+184,12 Years a Slave,2013,8.1,Steve McQueen,Michael Kenneth Williams
+184,12 Years a Slave,2013,8.1,Steve McQueen,Michael Fassbender
+185,Barry Lyndon,1975,8.1,Stanley Kubrick,Ryan O'Neal
+185,Barry Lyndon,1975,8.1,Stanley Kubrick,Marisa Berenson
+185,Barry Lyndon,1975,8.1,Stanley Kubrick,Patrick Magee
+186,Before Sunrise,1995,8.1,Richard Linklater,Ethan Hawke
+186,Before Sunrise,1995,8.1,Richard Linklater,Julie Delpy
+186,Before Sunrise,1995,8.1,Richard Linklater,Andrea Eckert
+187,Blade Runner,1982,8.1,Ridley Scott,Harrison Ford
+187,Blade Runner,1982,8.1,Ridley Scott,Rutger Hauer
+187,Blade Runner,1982,8.1,Ridley Scott,Sean Young
+188,The Grand Budapest Hotel,2014,8.1,Wes Anderson,Ralph Fiennes
+188,The Grand Budapest Hotel,2014,8.1,Wes Anderson,F. Murray Abraham
+188,The Grand Budapest Hotel,2014,8.1,Wes Anderson,Mathieu Amalric
+189,Hacksaw Ridge,2016,8.1,Mel Gibson,Andrew Garfield
+189,Hacksaw Ridge,2016,8.1,Mel Gibson,Sam Worthington
+189,Hacksaw Ridge,2016,8.1,Mel Gibson,Luke Bracey
+190,Gone Girl,2014,8.1,David Fincher,Ben Affleck
+190,Gone Girl,2014,8.1,David Fincher,Rosamund Pike
+190,Gone Girl,2014,8.1,David Fincher,Neil Patrick Harris
+191,Dead Poets Society,1989,8.1,Peter Weir,Robin Williams
+191,Dead Poets Society,1989,8.1,Peter Weir,Robert Sean Leonard
+191,Dead Poets Society,1989,8.1,Peter Weir,Ethan Hawke
+192,Memories of Murder,2003,8.1,Bong Joon Ho,Song Kang-ho
+192,Memories of Murder,2003,8.1,Bong Joon Ho,Kim Sang-kyung
+192,Memories of Murder,2003,8.1,Bong Joon Ho,Kim Roe-ha
+193,Maharaja,2024,8.5,Nithilan Saminathan,Vijay Sethupathi
+193,Maharaja,2024,8.5,Nithilan Saminathan,Anurag Kashyap
+193,Maharaja,2024,8.5,Nithilan Saminathan,Mamta Mohandas
+194,In the Name of the Father,1993,8.1,Jim Sheridan,Daniel Day-Lewis
+194,In the Name of the Father,1993,8.1,Jim Sheridan,Pete Postlethwaite
+194,In the Name of the Father,1993,8.1,Jim Sheridan,Alison Crosbie
+195,The Gold Rush,1925,8.1,Charles Chaplin,Charles Chaplin
+195,The Gold Rush,1925,8.1,Charles Chaplin,Mack Swain
+195,The Gold Rush,1925,8.1,Charles Chaplin,Tom Murray
+196,"Monsters, Inc.",2001,8.1,Pete Docter,Billy Crystal
+196,"Monsters, Inc.",2001,8.1,Pete Docter,John Goodman
+196,"Monsters, Inc.",2001,8.1,Pete Docter,Mary Gibbs
+196,"Monsters, Inc.",2001,8.1,David Silverman,Billy Crystal
+196,"Monsters, Inc.",2001,8.1,David Silverman,John Goodman
+196,"Monsters, Inc.",2001,8.1,David Silverman,Mary Gibbs
+196,"Monsters, Inc.",2001,8.1,Lee Unkrich,Billy Crystal
+196,"Monsters, Inc.",2001,8.1,Lee Unkrich,John Goodman
+196,"Monsters, Inc.",2001,8.1,Lee Unkrich,Mary Gibbs
+197,Wild Tales,2014,8.1,Damián Szifron,Darío Grandinetti
+197,Wild Tales,2014,8.1,Damián Szifron,María Marull
+197,Wild Tales,2014,8.1,Damián Szifron,Mónica Villa
+198,Ratatouille,2007,8.1,Brad Bird,Brad Garrett
+198,Ratatouille,2007,8.1,Brad Bird,Lou Romano
+198,Ratatouille,2007,8.1,Brad Bird,Patton Oswalt
+198,Ratatouille,2007,8.1,Jan Pinkava,Brad Garrett
+198,Ratatouille,2007,8.1,Jan Pinkava,Lou Romano
+198,Ratatouille,2007,8.1,Jan Pinkava,Patton Oswalt
+199,The Deer Hunter,1978,8.1,Michael Cimino,Robert De Niro
+199,The Deer Hunter,1978,8.1,Michael Cimino,Christopher Walken
+199,The Deer Hunter,1978,8.1,Michael Cimino,John Cazale
+200,Jaws,1975,8.1,Steven Spielberg,Roy Scheider
+200,Jaws,1975,8.1,Steven Spielberg,Robert Shaw
+200,Jaws,1975,8.1,Steven Spielberg,Richard Dreyfuss
+201,How to Train Your Dragon,2010,8.1,Dean DeBlois,Jay Baruchel
+201,How to Train Your Dragon,2010,8.1,Dean DeBlois,Gerard Butler
+201,How to Train Your Dragon,2010,8.1,Dean DeBlois,Christopher Mintz-Plasse
+201,How to Train Your Dragon,2010,8.1,Chris Sanders,Jay Baruchel
+201,How to Train Your Dragon,2010,8.1,Chris Sanders,Gerard Butler
+201,How to Train Your Dragon,2010,8.1,Chris Sanders,Christopher Mintz-Plasse
+202,The General,1926,8.1,Clyde Bruckman,Buster Keaton
+202,The General,1926,8.1,Clyde Bruckman,Marion Mack
+202,The General,1926,8.1,Clyde Bruckman,Glen Cavender
+202,The General,1926,8.1,Buster Keaton,Buster Keaton
+202,The General,1926,8.1,Buster Keaton,Marion Mack
+202,The General,1926,8.1,Buster Keaton,Glen Cavender
+203,Sherlock Jr.,1924,8.2,Buster Keaton,Buster Keaton
+203,Sherlock Jr.,1924,8.2,Buster Keaton,Kathryn McGuire
+203,Sherlock Jr.,1924,8.2,Buster Keaton,Joe Keaton
+204,On the Waterfront,1954,8.1,Elia Kazan,Marlon Brando
+204,On the Waterfront,1954,8.1,Elia Kazan,Karl Malden
+204,On the Waterfront,1954,8.1,Elia Kazan,Lee J. Cobb
+205,Mary and Max,2009,8.1,Adam Elliot,Toni Collette
+205,Mary and Max,2009,8.1,Adam Elliot,Philip Seymour Hoffman
+205,Mary and Max,2009,8.1,Adam Elliot,Eric Bana
+206,The Wages of Fear,1953,8.1,Henri-Georges Clouzot,Yves Montand
+206,The Wages of Fear,1953,8.1,Henri-Georges Clouzot,Charles Vanel
+206,The Wages of Fear,1953,8.1,Henri-Georges Clouzot,Peter van Eyck
+207,Ford v Ferrari,2019,8.1,James Mangold,Matt Damon
+207,Ford v Ferrari,2019,8.1,James Mangold,Christian Bale
+207,Ford v Ferrari,2019,8.1,James Mangold,Jon Bernthal
+208,Wild Strawberries,1957,8.1,Ingmar Bergman,Victor Sjöström
+208,Wild Strawberries,1957,8.1,Ingmar Bergman,Bibi Andersson
+208,Wild Strawberries,1957,8.1,Ingmar Bergman,Ingrid Thulin
+209,Mr. Smith Goes to Washington,1939,8.1,Frank Capra,James Stewart
+209,Mr. Smith Goes to Washington,1939,8.1,Frank Capra,Jean Arthur
+209,Mr. Smith Goes to Washington,1939,8.1,Frank Capra,Claude Rains
+210,The Third Man,1949,8.1,Carol Reed,Orson Welles
+210,The Third Man,1949,8.1,Carol Reed,Joseph Cotten
+210,The Third Man,1949,8.1,Carol Reed,Alida Valli
+211,Logan,2017,8.1,James Mangold,Hugh Jackman
+211,Logan,2017,8.1,James Mangold,Patrick Stewart
+211,Logan,2017,8.1,James Mangold,Dafne Keen
+212,Rocky,1976,8.1,John G. Avildsen,Sylvester Stallone
+212,Rocky,1976,8.1,John G. Avildsen,Talia Shire
+212,Rocky,1976,8.1,John G. Avildsen,Burt Young
+213,Tokyo Story,1953,8.1,Yasujirô Ozu,Chishû Ryû
+213,Tokyo Story,1953,8.1,Yasujirô Ozu,Chieko Higashiyama
+213,Tokyo Story,1953,8.1,Yasujirô Ozu,Sô Yamamura
+214,The Big Lebowski,1998,8.1,Joel Coen,Jeff Bridges
+214,The Big Lebowski,1998,8.1,Joel Coen,John Goodman
+214,The Big Lebowski,1998,8.1,Joel Coen,Julianne Moore
+214,The Big Lebowski,1998,8.1,Ethan Coen,Jeff Bridges
+214,The Big Lebowski,1998,8.1,Ethan Coen,John Goodman
+214,The Big Lebowski,1998,8.1,Ethan Coen,Julianne Moore
+215,The Seventh Seal,1957,8.1,Ingmar Bergman,Max von Sydow
+215,The Seventh Seal,1957,8.1,Ingmar Bergman,Gunnar Björnstrand
+215,The Seventh Seal,1957,8.1,Ingmar Bergman,Bengt Ekerot
+216,Room,2015,8.1,Lenny Abrahamson,Brie Larson
+216,Room,2015,8.1,Lenny Abrahamson,Jacob Tremblay
+216,Room,2015,8.1,Lenny Abrahamson,Sean Bridgers
+217,Spotlight,2015,8.1,Tom McCarthy,Mark Ruffalo
+217,Spotlight,2015,8.1,Tom McCarthy,Michael Keaton
+217,Spotlight,2015,8.1,Tom McCarthy,Rachel McAdams
+218,The Terminator,1984,8.1,James Cameron,Arnold Schwarzenegger
+218,The Terminator,1984,8.1,James Cameron,Linda Hamilton
+218,The Terminator,1984,8.1,James Cameron,Michael Biehn
+219,Hotel Rwanda,2004,8.1,Terry George,Don Cheadle
+219,Hotel Rwanda,2004,8.1,Terry George,Sophie Okonedo
+219,Hotel Rwanda,2004,8.1,Terry George,Joaquin Phoenix
+220,Platoon,1986,8.1,Oliver Stone,Charlie Sheen
+220,Platoon,1986,8.1,Oliver Stone,Tom Berenger
+220,Platoon,1986,8.1,Oliver Stone,Willem Dafoe
+221,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,Gore Verbinski,Johnny Depp
+221,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,Gore Verbinski,Geoffrey Rush
+221,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,Gore Verbinski,Orlando Bloom
+222,La haine,1995,8.1,Mathieu Kassovitz,Vincent Cassel
+222,La haine,1995,8.1,Mathieu Kassovitz,Hubert Koundé
+222,La haine,1995,8.1,Mathieu Kassovitz,Saïd Taghmaoui
+223,A Man Escaped,1956,8.2,Robert Bresson,François Leterrier
+223,A Man Escaped,1956,8.2,Robert Bresson,Charles Le Clainche
+223,A Man Escaped,1956,8.2,Robert Bresson,Maurice Beerblock
+224,Before Sunset,2004,8.1,Richard Linklater,Ethan Hawke
+224,Before Sunset,2004,8.1,Richard Linklater,Julie Delpy
+224,Before Sunset,2004,8.1,Richard Linklater,Vernon Dobtcheff
+225,The Passion of Joan of Arc,1928,8.1,Carl Theodor Dreyer,Maria Falconetti
+225,The Passion of Joan of Arc,1928,8.1,Carl Theodor Dreyer,Eugene Silvain
+225,The Passion of Joan of Arc,1928,8.1,Carl Theodor Dreyer,André Berley
+226,Jai Bhim,2021,8.7,T.J. Gnanavel,Suriya
+226,Jai Bhim,2021,8.7,T.J. Gnanavel,Lijo Mol Jose
+226,Jai Bhim,2021,8.7,T.J. Gnanavel,Manikandan K.
+227,The Best Years of Our Lives,1946,8.1,William Wyler,Myrna Loy
+227,The Best Years of Our Lives,1946,8.1,William Wyler,Dana Andrews
+227,The Best Years of Our Lives,1946,8.1,William Wyler,Fredric March
+228,The Exorcist,1973,8.1,William Friedkin,Ellen Burstyn
+228,The Exorcist,1973,8.1,William Friedkin,Max von Sydow
+228,The Exorcist,1973,8.1,William Friedkin,Linda Blair
+229,Rush,2013,8.1,Ron Howard,Daniel Brühl
+229,Rush,2013,8.1,Ron Howard,Chris Hemsworth
+229,Rush,2013,8.1,Ron Howard,Olivia Wilde
+230,The Incredibles,2004,8.0,Brad Bird,Craig T. Nelson
+230,The Incredibles,2004,8.0,Brad Bird,Samuel L. Jackson
+230,The Incredibles,2004,8.0,Brad Bird,Holly Hunter
+231,The Wizard of Oz,1939,8.1,Victor Fleming,Judy Garland
+231,The Wizard of Oz,1939,8.1,Victor Fleming,Frank Morgan
+231,The Wizard of Oz,1939,8.1,Victor Fleming,Ray Bolger
+231,The Wizard of Oz,1939,8.1,King Vidor,Judy Garland
+231,The Wizard of Oz,1939,8.1,King Vidor,Frank Morgan
+231,The Wizard of Oz,1939,8.1,King Vidor,Ray Bolger
+232,Network,1976,8.1,Sidney Lumet,Faye Dunaway
+232,Network,1976,8.1,Sidney Lumet,William Holden
+232,Network,1976,8.1,Sidney Lumet,Peter Finch
+233,Stand by Me,1986,8.1,Rob Reiner,Wil Wheaton
+233,Stand by Me,1986,8.1,Rob Reiner,River Phoenix
+233,Stand by Me,1986,8.1,Rob Reiner,Corey Feldman
+234,Hachi: A Dog's Tale,2009,8.1,Lasse Hallström,Richard Gere
+234,Hachi: A Dog's Tale,2009,8.1,Lasse Hallström,Joan Allen
+234,Hachi: A Dog's Tale,2009,8.1,Lasse Hallström,Cary-Hiroyuki Tagawa
+235,The Sound of Music,1965,8.1,Robert Wise,Julie Andrews
+235,The Sound of Music,1965,8.1,Robert Wise,Christopher Plummer
+235,The Sound of Music,1965,8.1,Robert Wise,Eleanor Parker
+236,My Father and My Son,2005,8.2,Çagan Irmak,Çetin Tekindor
+236,My Father and My Son,2005,8.2,Çagan Irmak,Fikret Kuskan
+236,My Father and My Son,2005,8.2,Çagan Irmak,Hümeyra
+237,The Handmaiden,2016,8.1,Park Chan-wook,Kim Min-hee
+237,The Handmaiden,2016,8.1,Park Chan-wook,Ha Jung-woo
+237,The Handmaiden,2016,8.1,Park Chan-wook,Cho Jin-woong
+238,To Be or Not to Be,1942,8.1,Ernst Lubitsch,Carole Lombard
+238,To Be or Not to Be,1942,8.1,Ernst Lubitsch,Jack Benny
+238,To Be or Not to Be,1942,8.1,Ernst Lubitsch,Robert Stack
+239,Into the Wild,2007,8.1,Sean Penn,Emile Hirsch
+239,Into the Wild,2007,8.1,Sean Penn,Vince Vaughn
+239,Into the Wild,2007,8.1,Sean Penn,Catherine Keener
+240,The Battle of Algiers,1966,8.1,Gillo Pontecorvo,Brahim Hadjadj
+240,The Battle of Algiers,1966,8.1,Gillo Pontecorvo,Jean Martin
+240,The Battle of Algiers,1966,8.1,Gillo Pontecorvo,Yacef Saadi
+241,The Iron Giant,1999,8.1,Brad Bird,Eli Marienthal
+241,The Iron Giant,1999,8.1,Brad Bird,Harry Connick Jr.
+241,The Iron Giant,1999,8.1,Brad Bird,Jennifer Aniston
+242,The Grapes of Wrath,1940,8.1,John Ford,Henry Fonda
+242,The Grapes of Wrath,1940,8.1,John Ford,Jane Darwell
+242,The Grapes of Wrath,1940,8.1,John Ford,John Carradine
+243,Groundhog Day,1993,8.0,Harold Ramis,Bill Murray
+243,Groundhog Day,1993,8.0,Harold Ramis,Andie MacDowell
+243,Groundhog Day,1993,8.0,Harold Ramis,Chris Elliott
+244,Amores Perros,2000,8.0,Alejandro G. Iñárritu,Emilio Echevarría
+244,Amores Perros,2000,8.0,Alejandro G. Iñárritu,Gael García Bernal
+244,Amores Perros,2000,8.0,Alejandro G. Iñárritu,Goya Toledo
+245,Rebecca,1940,8.1,Alfred Hitchcock,Laurence Olivier
+245,Rebecca,1940,8.1,Alfred Hitchcock,Joan Fontaine
+245,Rebecca,1940,8.1,Alfred Hitchcock,George Sanders
+246,The Help,2011,8.1,Tate Taylor,Viola Davis
+246,The Help,2011,8.1,Tate Taylor,Emma Stone
+246,The Help,2011,8.1,Tate Taylor,Octavia Spencer
+247,Cool Hand Luke,1967,8.1,Stuart Rosenberg,Paul Newman
+247,Cool Hand Luke,1967,8.1,Stuart Rosenberg,George Kennedy
+247,Cool Hand Luke,1967,8.1,Stuart Rosenberg,Strother Martin
+248,It Happened One Night,1934,8.1,Frank Capra,Clark Gable
+248,It Happened One Night,1934,8.1,Frank Capra,Claudette Colbert
+248,It Happened One Night,1934,8.1,Frank Capra,Walter Connolly
+249,A Silent Voice: The Movie,2016,8.1,,
