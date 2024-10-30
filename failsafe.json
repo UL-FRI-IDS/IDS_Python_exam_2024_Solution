@@ -773,19 +773,6 @@
         ]
     },
     {
-        "title": "12th Fail",
-        "year": 2023,
-        "rating": 8.8,
-        "directors": [
-            "Vidhu Vinod Chopra"
-        ],
-        "movie_stars": [
-            "Vikrant Massey",
-            "Medha Shankr",
-            "Anant Joshi"
-        ]
-    },
-    {
         "title": "The Lives of Others",
         "year": 2006,
         "rating": 8.4,
@@ -796,6 +783,19 @@
             "Ulrich M\u00fche",
             "Martina Gedeck",
             "Sebastian Koch"
+        ]
+    },
+    {
+        "title": "12th Fail",
+        "year": 2023,
+        "rating": 8.8,
+        "directors": [
+            "Vidhu Vinod Chopra"
+        ],
+        "movie_stars": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant Joshi"
         ]
     },
     {
@@ -1390,19 +1390,6 @@
         ]
     },
     {
-        "title": "Oppenheimer",
-        "year": 2023,
-        "rating": 8.3,
-        "directors": [
-            "Christopher Nolan"
-        ],
-        "movie_stars": [
-            "Cillian Murphy",
-            "Emily Blunt",
-            "Matt Damon"
-        ]
-    },
-    {
         "title": "Vertigo",
         "year": 1958,
         "rating": 8.3,
@@ -1413,6 +1400,19 @@
             "James Stewart",
             "Kim Novak",
             "Barbara Bel Geddes"
+        ]
+    },
+    {
+        "title": "Oppenheimer",
+        "year": 2023,
+        "rating": 8.3,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
         ]
     },
     {
@@ -1952,19 +1952,6 @@
         ]
     },
     {
-        "title": "The Wild Robot",
-        "year": 2024,
-        "rating": 8.3,
-        "directors": [
-            "Chris Sanders"
-        ],
-        "movie_stars": [
-            "Lupita Nyong'o",
-            "Pedro Pascal",
-            "Kit Connor"
-        ]
-    },
-    {
         "title": "A Beautiful Mind",
         "year": 2001,
         "rating": 8.2,
@@ -1975,6 +1962,19 @@
             "Russell Crowe",
             "Ed Harris",
             "Jennifer Connelly"
+        ]
+    },
+    {
+        "title": "The Wild Robot",
+        "year": 2024,
+        "rating": 8.3,
+        "directors": [
+            "Chris Sanders"
+        ],
+        "movie_stars": [
+            "Lupita Nyong'o",
+            "Pedro Pascal",
+            "Kit Connor"
         ]
     },
     {
@@ -2531,19 +2531,6 @@
         ]
     },
     {
-        "title": "Maharaja",
-        "year": 2024,
-        "rating": 8.5,
-        "directors": [
-            "Nithilan Saminathan"
-        ],
-        "movie_stars": [
-            "Vijay Sethupathi",
-            "Anurag Kashyap",
-            "Mamta Mohandas"
-        ]
-    },
-    {
         "title": "In the Name of the Father",
         "year": 1993,
         "rating": 8.1,
@@ -2554,6 +2541,19 @@
             "Daniel Day-Lewis",
             "Pete Postlethwaite",
             "Alison Crosbie"
+        ]
+    },
+    {
+        "title": "Maharaja",
+        "year": 2024,
+        "rating": 8.5,
+        "directors": [
+            "Nithilan Saminathan"
+        ],
+        "movie_stars": [
+            "Vijay Sethupathi",
+            "Anurag Kashyap",
+            "Mamta Mohandas"
         ]
     },
     {
@@ -3269,7 +3269,14 @@
         "title": "A Silent Voice: The Movie",
         "year": 2016,
         "rating": 8.1,
-        "directors": [],
-        "movie_stars": []
+        "directors": [
+            "Taichi Ishidate",
+            "Naoko Yamada"
+        ],
+        "movie_stars": [
+            "Miyu Irino",
+            "Saori Hayami",
+            "Aoi Y\u00fbki"
+        ]
     }
 ]
