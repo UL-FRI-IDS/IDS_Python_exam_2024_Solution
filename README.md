@@ -1,12 +1,13 @@
-# Hands-on exam 1
+# Hands-on exam 1 - IMDB top 250 movies scraping and analysis
 
 This exam will check the basic knowledge of Python and Web scraping during the course Introduction to Data Science. If you use some other language, transform the whole repository accordingly.
 
 Update the marked parts in this document with your answers. Implement Jupyter notebooks or otherwise organize the repository to be fully reproducible. 
 
-**Part 1 and part 2 are standalone, but use the same data. The intended workflow is to produce a JSON file with all required data scraped in part 1 and use it to complete part 2.**
 
-**We provide a subset of the data that should be the result of part 1 in `sample.json` that you can use to solve part 2, so that you are not locked out of part 2 if you do not manage to scrape everything required in part 1.**
+Data retrieval and Data exploration parts are standalone, but use the same data. The intended workflow is to produce a JSON file with all scraped data in `01_data_retrieval.ipynb` and use it to complete `02_data_retrieval.ipynb`.
+
+**We provide a small subset (5 entries) of the expected scraped data format that should be the result of `01_data_retrieval.ipynb` in `sample_output.json`.**
 
 ## 1. Environment setup
 
