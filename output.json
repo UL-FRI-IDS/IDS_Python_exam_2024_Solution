@@ -1,0 +1,3281 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": 9.3,
+        "directors": [
+            "Frank Darabont"
+        ],
+        "movie_stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ]
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "rating": 9.2,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "movie_stars": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "rating": 9.0,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": 1974,
+        "rating": 9.0,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "movie_stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "title": "12 Angry Men",
+        "year": 1957,
+        "rating": 9.0,
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "movie_stars": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "rating": 9.0,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "movie_stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ]
+    },
+    {
+        "title": "Schindler's List",
+        "year": 1993,
+        "rating": 9.0,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ]
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "rating": 8.9,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "movie_stars": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "rating": 8.9,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "movie_stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "rating": 8.8,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "movie_stars": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ]
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "rating": 8.8,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "movie_stars": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "rating": 8.8,
+        "directors": [
+            "Peter Jackson"
+        ],
+        "movie_stars": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ]
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "rating": 8.8,
+        "directors": [
+            "David Fincher"
+        ],
+        "movie_stars": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ]
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "rating": 8.8,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "rating": 8.7,
+        "directors": [
+            "Irvin Kershner"
+        ],
+        "movie_stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "rating": 8.7,
+        "directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "movie_stars": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ]
+    },
+    {
+        "title": "Goodfellas",
+        "year": 1990,
+        "rating": 8.7,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "rating": 8.7,
+        "directors": [
+            "Milos Forman"
+        ],
+        "movie_stars": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman"
+        ]
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "rating": 8.7,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "title": "Se7en",
+        "year": 1995,
+        "rating": 8.6,
+        "directors": [
+            "David Fincher"
+        ],
+        "movie_stars": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ]
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "rating": 8.6,
+        "directors": [
+            "Frank Capra"
+        ],
+        "movie_stars": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ]
+    },
+    {
+        "title": "Seven Samurai",
+        "year": 1954,
+        "rating": 8.6,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Toshir\u00f4 Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ]
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "rating": 8.6,
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "movie_stars": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ]
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "rating": 8.6,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ]
+    },
+    {
+        "title": "City of God",
+        "year": 2002,
+        "rating": 8.6,
+        "directors": [
+            "Fernando Meirelles",
+            "K\u00e1tia Lund"
+        ],
+        "movie_stars": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ]
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": 1997,
+        "rating": 8.6,
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "movie_stars": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ]
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "rating": 8.6,
+        "directors": [
+            "Frank Darabont"
+        ],
+        "movie_stars": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ]
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": 1991,
+        "rating": 8.6,
+        "directors": [
+            "James Cameron"
+        ],
+        "movie_stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "rating": 8.6,
+        "directors": [
+            "George Lucas"
+        ],
+        "movie_stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "rating": 8.5,
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "movie_stars": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ]
+    },
+    {
+        "title": "Spirited Away",
+        "year": 2001,
+        "rating": 8.6,
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "movie_stars": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ]
+    },
+    {
+        "title": "The Pianist",
+        "year": 2002,
+        "rating": 8.5,
+        "directors": [
+            "Roman Polanski"
+        ],
+        "movie_stars": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ]
+    },
+    {
+        "title": "Parasite",
+        "year": 2019,
+        "rating": 8.5,
+        "directors": [
+            "Bong Joon Ho"
+        ],
+        "movie_stars": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ]
+    },
+    {
+        "title": "Psycho",
+        "year": 1960,
+        "rating": 8.5,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ]
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "rating": 8.5,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "movie_stars": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ]
+    },
+    {
+        "title": "The Lion King",
+        "year": 1994,
+        "rating": 8.5,
+        "directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "movie_stars": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ]
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "rating": 8.5,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ]
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "rating": 8.6,
+        "directors": [
+            "Joaquim Dos Santos",
+            "Kemp Powers",
+            "Justin K. Thompson"
+        ],
+        "movie_stars": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry"
+        ]
+    },
+    {
+        "title": "Whiplash",
+        "year": 2014,
+        "rating": 8.5,
+        "directors": [
+            "Damien Chazelle"
+        ],
+        "movie_stars": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ]
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "rating": 8.5,
+        "directors": [
+            "Isao Takahata"
+        ],
+        "movie_stars": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+        ]
+    },
+    {
+        "title": "American History X",
+        "year": 1998,
+        "rating": 8.5,
+        "directors": [
+            "Tony Kaye"
+        ],
+        "movie_stars": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ]
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "year": 1994,
+        "rating": 8.5,
+        "directors": [
+            "Luc Besson"
+        ],
+        "movie_stars": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ]
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "rating": 8.5,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "title": "Harakiri",
+        "year": 1962,
+        "rating": 8.6,
+        "directors": [
+            "Masaki Kobayashi"
+        ],
+        "movie_stars": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama",
+            "Shima Iwashita"
+        ]
+    },
+    {
+        "title": "Casablanca",
+        "year": 1942,
+        "rating": 8.5,
+        "directors": [
+            "Michael Curtiz"
+        ],
+        "movie_stars": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid"
+        ]
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "rating": 8.5,
+        "directors": [
+            "Bryan Singer"
+        ],
+        "movie_stars": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ]
+    },
+    {
+        "title": "The Intouchables",
+        "year": 2011,
+        "rating": 8.5,
+        "directors": [
+            "Olivier Nakache",
+            "\u00c9ric Toledano"
+        ],
+        "movie_stars": [
+            "Fran\u00e7ois Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ]
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "rating": 8.5,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "movie_stars": [
+            "Timoth\u00e9e Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ]
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": 1988,
+        "rating": 8.5,
+        "directors": [
+            "Giuseppe Tornatore"
+        ],
+        "movie_stars": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili"
+        ]
+    },
+    {
+        "title": "Modern Times",
+        "year": 1936,
+        "rating": 8.5,
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "movie_stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+        ]
+    },
+    {
+        "title": "Alien",
+        "year": 1979,
+        "rating": 8.5,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "movie_stars": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ]
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "rating": 8.5,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": 1968,
+        "rating": 8.5,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "movie_stars": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale"
+        ]
+    },
+    {
+        "title": "Django Unchained",
+        "year": 2012,
+        "rating": 8.5,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "movie_stars": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ]
+    },
+    {
+        "title": "City Lights",
+        "year": 1931,
+        "rating": 8.5,
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "movie_stars": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee"
+        ]
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "rating": 8.4,
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "movie_stars": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ]
+    },
+    {
+        "title": "Memento",
+        "year": 2000,
+        "rating": 8.4,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ]
+    },
+    {
+        "title": "WALL\u00b7E",
+        "year": 2008,
+        "rating": 8.4,
+        "directors": [
+            "Andrew Stanton"
+        ],
+        "movie_stars": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ]
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "rating": 8.4,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ]
+    },
+    {
+        "title": "12th Fail",
+        "year": 2023,
+        "rating": 8.8,
+        "directors": [
+            "Vidhu Vinod Chopra"
+        ],
+        "movie_stars": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant Joshi"
+        ]
+    },
+    {
+        "title": "The Lives of Others",
+        "year": 2006,
+        "rating": 8.4,
+        "directors": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "movie_stars": [
+            "Ulrich M\u00fche",
+            "Martina Gedeck",
+            "Sebastian Koch"
+        ]
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "rating": 8.4,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "movie_stars": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim"
+        ]
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": 8.4,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "movie_stars": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "title": "Paths of Glory",
+        "year": 1957,
+        "rating": 8.4,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou"
+        ]
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "rating": 8.4,
+        "directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "movie_stars": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ]
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": 1957,
+        "rating": 8.4,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "movie_stars": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton"
+        ]
+    },
+    {
+        "title": "The Shining",
+        "year": 1980,
+        "rating": 8.4,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ]
+    },
+    {
+        "title": "The Great Dictator",
+        "year": 1940,
+        "rating": 8.4,
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "movie_stars": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ]
+    },
+    {
+        "title": "Aliens",
+        "year": 1986,
+        "rating": 8.4,
+        "directors": [
+            "James Cameron"
+        ],
+        "movie_stars": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn"
+        ]
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": 2009,
+        "rating": 8.4,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "movie_stars": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth"
+        ]
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": 8.4,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "rating": 8.4,
+        "directors": [
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
+        "movie_stars": [
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal",
+            "Benjamin Bratt"
+        ]
+    },
+    {
+        "title": "Amadeus",
+        "year": 1984,
+        "rating": 8.4,
+        "directors": [
+            "Milos Forman"
+        ],
+        "movie_stars": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge"
+        ]
+    },
+    {
+        "title": "Toy Story",
+        "year": 1995,
+        "rating": 8.3,
+        "directors": [
+            "John Lasseter"
+        ],
+        "movie_stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ]
+    },
+    {
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": 1964,
+        "rating": 8.3,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden"
+        ]
+    },
+    {
+        "title": "Oldboy",
+        "year": 2003,
+        "rating": 8.3,
+        "directors": [
+            "Park Chan-wook"
+        ],
+        "movie_stars": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jeong"
+        ]
+    },
+    {
+        "title": "American Beauty",
+        "year": 1999,
+        "rating": 8.3,
+        "directors": [
+            "Sam Mendes"
+        ],
+        "movie_stars": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ]
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "rating": 8.4,
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "movie_stars": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "title": "Das Boot",
+        "year": 1981,
+        "rating": 8.4,
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "movie_stars": [
+            "J\u00fcrgen Prochnow",
+            "Herbert Gr\u00f6nemeyer",
+            "Klaus Wennemann"
+        ]
+    },
+    {
+        "title": "Braveheart",
+        "year": 1995,
+        "rating": 8.3,
+        "directors": [
+            "Mel Gibson"
+        ],
+        "movie_stars": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ]
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "rating": 8.3,
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "movie_stars": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ]
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": 1997,
+        "rating": 8.3,
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "movie_stars": [
+            "Y\u00f4ji Matsuda",
+            "Yuriko Ishida",
+            "Y\u00fbko Tanaka"
+        ]
+    },
+    {
+        "title": "Your Name.",
+        "year": 2016,
+        "rating": 8.4,
+        "directors": [
+            "Makoto Shinkai"
+        ],
+        "movie_stars": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita"
+        ]
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "rating": 8.4,
+        "directors": [
+            "Todd Phillips"
+        ],
+        "movie_stars": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ]
+    },
+    {
+        "title": "High and Low",
+        "year": 1963,
+        "rating": 8.4,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Toshir\u00f4 Mifune",
+            "Yutaka Sada",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "title": "3 Idiots",
+        "year": 2009,
+        "rating": 8.4,
+        "directors": [
+            "Rajkumar Hirani"
+        ],
+        "movie_stars": [
+            "Aamir Khan",
+            "Madhavan",
+            "Mona Singh"
+        ]
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": 1984,
+        "rating": 8.3,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+        ]
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": 1952,
+        "rating": 8.3,
+        "directors": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "movie_stars": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds"
+        ]
+    },
+    {
+        "title": "Capernaum",
+        "year": 2018,
+        "rating": 8.4,
+        "directors": [
+            "Nadine Labaki"
+        ],
+        "movie_stars": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw",
+            "Boluwatife Treasure Bankole"
+        ]
+    },
+    {
+        "title": "Come and See",
+        "year": 1985,
+        "rating": 8.3,
+        "directors": [
+            "Elem Klimov"
+        ],
+        "movie_stars": [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius"
+        ]
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "rating": 8.3,
+        "directors": [
+            "Darren Aronofsky"
+        ],
+        "movie_stars": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "rating": 8.3,
+        "directors": [
+            "Lee Unkrich"
+        ],
+        "movie_stars": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ]
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": 1983,
+        "rating": 8.3,
+        "directors": [
+            "Richard Marquand"
+        ],
+        "movie_stars": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "title": "The Hunt",
+        "year": 2012,
+        "rating": 8.3,
+        "directors": [
+            "Thomas Vinterberg"
+        ],
+        "movie_stars": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen",
+            "Annika Wedderkopp"
+        ]
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rating": 8.3,
+        "directors": [
+            "Michel Gondry"
+        ],
+        "movie_stars": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson"
+        ]
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": 1968,
+        "rating": 8.3,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ]
+    },
+    {
+        "title": "Ikiru",
+        "year": 1952,
+        "rating": 8.3,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori"
+        ]
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": 1992,
+        "rating": 8.3,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "movie_stars": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen"
+        ]
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "rating": 8.3,
+        "directors": [
+            "David Lean"
+        ],
+        "movie_stars": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn"
+        ]
+    },
+    {
+        "title": "The Apartment",
+        "year": 1960,
+        "rating": 8.3,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "movie_stars": [
+            "Jack Lemmon",
+            "Shirley MacLaine",
+            "Fred MacMurray"
+        ]
+    },
+    {
+        "title": "Incendies",
+        "year": 2010,
+        "rating": 8.3,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "movie_stars": [
+            "Lubna Azabal",
+            "M\u00e9lissa D\u00e9sormeaux-Poulin",
+            "Maxim Gaudette"
+        ]
+    },
+    {
+        "title": "Scarface",
+        "year": 1983,
+        "rating": 8.3,
+        "directors": [
+            "Brian De Palma"
+        ],
+        "movie_stars": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ]
+    },
+    {
+        "title": "North by Northwest",
+        "year": 1959,
+        "rating": 8.3,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason"
+        ]
+    },
+    {
+        "title": "Double Indemnity",
+        "year": 1944,
+        "rating": 8.3,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "movie_stars": [
+            "Fred MacMurray",
+            "Barbara Stanwyck",
+            "Edward G. Robinson"
+        ]
+    },
+    {
+        "title": "Citizen Kane",
+        "year": 1941,
+        "rating": 8.3,
+        "directors": [
+            "Orson Welles"
+        ],
+        "movie_stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Dorothy Comingore"
+        ]
+    },
+    {
+        "title": "M",
+        "year": 1931,
+        "rating": 8.3,
+        "directors": [
+            "Fritz Lang"
+        ],
+        "movie_stars": [
+            "Peter Lorre",
+            "Ellen Widmann",
+            "Inge Landgut"
+        ]
+    },
+    {
+        "title": "Vertigo",
+        "year": 1958,
+        "rating": 8.3,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "James Stewart",
+            "Kim Novak",
+            "Barbara Bel Geddes"
+        ]
+    },
+    {
+        "title": "Oppenheimer",
+        "year": 2023,
+        "rating": 8.3,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
+        ]
+    },
+    {
+        "title": "Heat",
+        "year": 1995,
+        "rating": 8.3,
+        "directors": [
+            "Michael Mann"
+        ],
+        "movie_stars": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Val Kilmer"
+        ]
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": 1987,
+        "rating": 8.2,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Matthew Modine",
+            "R. Lee Ermey",
+            "Vincent D'Onofrio"
+        ]
+    },
+    {
+        "title": "Am\u00e9lie",
+        "year": 2001,
+        "rating": 8.3,
+        "directors": [
+            "Jean-Pierre Jeunet"
+        ],
+        "movie_stars": [
+            "Audrey Tautou",
+            "Mathieu Kassovitz",
+            "Rufus"
+        ]
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "rating": 8.3,
+        "directors": [
+            "Pete Docter",
+            "Bob Peterson"
+        ],
+        "movie_stars": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "John Ratzenberger"
+        ]
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "rating": 8.2,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Malcolm McDowell",
+            "Patrick Magee",
+            "Michael Bates"
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "rating": 8.3,
+        "directors": [
+            "Robert Mulligan"
+        ],
+        "movie_stars": [
+            "Gregory Peck",
+            "John Megna",
+            "Frank Overton"
+        ]
+    },
+    {
+        "title": "A Separation",
+        "year": 2011,
+        "rating": 8.3,
+        "directors": [
+            "Asghar Farhadi"
+        ],
+        "movie_stars": [
+            "Payman Maadi",
+            "Leila Hatami",
+            "Sareh Bayat"
+        ]
+    },
+    {
+        "title": "The Sting",
+        "year": 1973,
+        "rating": 8.3,
+        "directors": [
+            "George Roy Hill"
+        ],
+        "movie_stars": [
+            "Paul Newman",
+            "Robert Redford",
+            "Robert Shaw"
+        ]
+    },
+    {
+        "title": "Die Hard",
+        "year": 1988,
+        "rating": 8.2,
+        "directors": [
+            "John McTiernan"
+        ],
+        "movie_stars": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia"
+        ]
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "rating": 8.2,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Harrison Ford",
+            "Sean Connery",
+            "Alison Doody"
+        ]
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": 2007,
+        "rating": 8.3,
+        "directors": [
+            "Aamir Khan",
+            "Amole Gupte"
+        ],
+        "movie_stars": [
+            "Darsheel Safary",
+            "Aamir Khan",
+            "Tisca Chopra"
+        ]
+    },
+    {
+        "title": "Metropolis",
+        "year": 1927,
+        "rating": 8.3,
+        "directors": [
+            "Fritz Lang"
+        ],
+        "movie_stars": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Fr\u00f6hlich"
+        ]
+    },
+    {
+        "title": "Snatch",
+        "year": 2000,
+        "rating": 8.2,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "movie_stars": [
+            "Jason Statham",
+            "Brad Pitt",
+            "Stephen Graham"
+        ]
+    },
+    {
+        "title": "1917",
+        "year": 2019,
+        "rating": 8.2,
+        "directors": [
+            "Sam Mendes"
+        ],
+        "movie_stars": [
+            "Dean-Charles Chapman",
+            "George MacKay",
+            "Daniel Mays"
+        ]
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": 1997,
+        "rating": 8.2,
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "movie_stars": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce"
+        ]
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": 1948,
+        "rating": 8.3,
+        "directors": [
+            "Vittorio De Sica"
+        ],
+        "movie_stars": [
+            "Lamberto Maggiorani",
+            "Enzo Staiola",
+            "Lianella Carell"
+        ]
+    },
+    {
+        "title": "Downfall",
+        "year": 2004,
+        "rating": 8.2,
+        "directors": [
+            "Oliver Hirschbiegel"
+        ],
+        "movie_stars": [
+            "Bruno Ganz",
+            "Alexandra Maria Lara",
+            "Ulrich Matthes"
+        ]
+    },
+    {
+        "title": "Hamilton",
+        "year": 2020,
+        "rating": 8.3,
+        "directors": [
+            "Thomas Kail"
+        ],
+        "movie_stars": [
+            "Lin-Manuel Miranda",
+            "Phillipa Soo",
+            "Leslie Odom Jr."
+        ]
+    },
+    {
+        "title": "Taxi Driver",
+        "year": 1976,
+        "rating": 8.2,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ]
+    },
+    {
+        "title": "Dangal",
+        "year": 2016,
+        "rating": 8.3,
+        "directors": [
+            "Nitesh Tiwari"
+        ],
+        "movie_stars": [
+            "Aamir Khan",
+            "Sakshi Tanwar",
+            "Fatima Sana Shaikh"
+        ]
+    },
+    {
+        "title": "Batman Begins",
+        "year": 2005,
+        "rating": 8.2,
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "movie_stars": [
+            "Christian Bale",
+            "Michael Caine",
+            "Ken Watanabe"
+        ]
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": 8.2,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie"
+        ]
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": 1965,
+        "rating": 8.2,
+        "directors": [
+            "Sergio Leone"
+        ],
+        "movie_stars": [
+            "Clint Eastwood",
+            "Lee Van Cleef",
+            "Gian Maria Volont\u00e8"
+        ]
+    },
+    {
+        "title": "Green Book",
+        "year": 2018,
+        "rating": 8.2,
+        "directors": [
+            "Peter Farrelly"
+        ],
+        "movie_stars": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini"
+        ]
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": 1959,
+        "rating": 8.2,
+        "directors": [
+            "Billy Wilder"
+        ],
+        "movie_stars": [
+            "Marilyn Monroe",
+            "Tony Curtis",
+            "Jack Lemmon"
+        ]
+    },
+    {
+        "title": "The Truman Show",
+        "year": 1998,
+        "rating": 8.2,
+        "directors": [
+            "Peter Weir"
+        ],
+        "movie_stars": [
+            "Jim Carrey",
+            "Ed Harris",
+            "Laura Linney"
+        ]
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": 1961,
+        "rating": 8.3,
+        "directors": [
+            "Stanley Kramer"
+        ],
+        "movie_stars": [
+            "Spencer Tracy",
+            "Burt Lancaster",
+            "Richard Widmark"
+        ]
+    },
+    {
+        "title": "The Kid",
+        "year": 1921,
+        "rating": 8.2,
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "movie_stars": [
+            "Charles Chaplin",
+            "Edna Purviance",
+            "Jackie Coogan"
+        ]
+    },
+    {
+        "title": "The Father",
+        "year": 2020,
+        "rating": 8.2,
+        "directors": [
+            "Florian Zeller"
+        ],
+        "movie_stars": [
+            "Anthony Hopkins",
+            "Olivia Colman",
+            "Mark Gatiss"
+        ]
+    },
+    {
+        "title": "All About Eve",
+        "year": 1950,
+        "rating": 8.2,
+        "directors": [
+            "Joseph L. Mankiewicz"
+        ],
+        "movie_stars": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders"
+        ]
+    },
+    {
+        "title": "Shutter Island",
+        "year": 2010,
+        "rating": 8.2,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Emily Mortimer",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": 2007,
+        "rating": 8.2,
+        "directors": [
+            "Paul Thomas Anderson"
+        ],
+        "movie_stars": [
+            "Daniel Day-Lewis",
+            "Paul Dano",
+            "Ciar\u00e1n Hinds"
+        ]
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "rating": 8.2,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ]
+    },
+    {
+        "title": "Casino",
+        "year": 1995,
+        "rating": 8.2,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "rating": 8.2,
+        "directors": [
+            "Joseph Kosinski"
+        ],
+        "movie_stars": [
+            "Tom Cruise",
+            "Jennifer Connelly",
+            "Miles Teller"
+        ]
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "rating": 8.2,
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "movie_stars": [
+            "Bruce Willis",
+            "Haley Joel Osment",
+            "Toni Collette"
+        ]
+    },
+    {
+        "title": "Ran",
+        "year": 1985,
+        "rating": 8.2,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Tatsuya Nakadai",
+            "Akira Terao",
+            "Jinpachi Nezu"
+        ]
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "rating": 8.2,
+        "directors": [
+            "Guillermo del Toro"
+        ],
+        "movie_stars": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi L\u00f3pez"
+        ]
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "rating": 8.2,
+        "directors": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "movie_stars": [
+            "Tommy Lee Jones",
+            "Javier Bardem",
+            "Josh Brolin"
+        ]
+    },
+    {
+        "title": "Unforgiven",
+        "year": 1992,
+        "rating": 8.2,
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "movie_stars": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "title": "The Thing",
+        "year": 1982,
+        "rating": 8.2,
+        "directors": [
+            "John Carpenter"
+        ],
+        "movie_stars": [
+            "Kurt Russell",
+            "Wilford Brimley",
+            "Keith David"
+        ]
+    },
+    {
+        "title": "The Wild Robot",
+        "year": 2024,
+        "rating": 8.3,
+        "directors": [
+            "Chris Sanders"
+        ],
+        "movie_stars": [
+            "Lupita Nyong'o",
+            "Pedro Pascal",
+            "Kit Connor"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "rating": 8.2,
+        "directors": [
+            "Ron Howard"
+        ],
+        "movie_stars": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ]
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "rating": 8.2,
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "movie_stars": [
+            "Uma Thurman",
+            "David Carradine",
+            "Daryl Hannah"
+        ]
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": 1948,
+        "rating": 8.2,
+        "directors": [
+            "John Huston"
+        ],
+        "movie_stars": [
+            "Humphrey Bogart",
+            "Walter Huston",
+            "Tim Holt"
+        ]
+    },
+    {
+        "title": "Yojimbo",
+        "year": 1961,
+        "rating": 8.2,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Toshir\u00f4 Mifune",
+            "Eijir\u00f4 T\u00f4no",
+            "Tatsuya Nakadai"
+        ]
+    },
+    {
+        "title": "The Great Escape",
+        "year": 1963,
+        "rating": 8.2,
+        "directors": [
+            "John Sturges"
+        ],
+        "movie_stars": [
+            "Steve McQueen",
+            "James Garner",
+            "Richard Attenborough"
+        ]
+    },
+    {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "rating": 8.2,
+        "directors": [
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "movie_stars": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ]
+    },
+    {
+        "title": "Prisoners",
+        "year": 2013,
+        "rating": 8.2,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "movie_stars": [
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Viola Davis"
+        ]
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": 1975,
+        "rating": 8.2,
+        "directors": [
+            "Terry Gilliam",
+            "Terry Jones"
+        ],
+        "movie_stars": [
+            "Graham Chapman",
+            "John Cleese",
+            "Eric Idle"
+        ]
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": 2004,
+        "rating": 8.2,
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "movie_stars": [
+            "Chieko Baish\u00f4",
+            "Takuya Kimura",
+            "Tatsuya Gash\u00fbin"
+        ]
+    },
+    {
+        "title": "The Elephant Man",
+        "year": 1980,
+        "rating": 8.2,
+        "directors": [
+            "David Lynch"
+        ],
+        "movie_stars": [
+            "Anthony Hopkins",
+            "John Hurt",
+            "Anne Bancroft"
+        ]
+    },
+    {
+        "title": "Rashomon",
+        "year": 1950,
+        "rating": 8.2,
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "movie_stars": [
+            "Toshir\u00f4 Mifune",
+            "Machiko Ky\u00f4",
+            "Masayuki Mori"
+        ]
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": 1954,
+        "rating": 8.2,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "Ray Milland",
+            "Grace Kelly",
+            "Robert Cummings"
+        ]
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "rating": 8.2,
+        "directors": [
+            "Victor Fleming",
+            "George Cukor",
+            "Sam Wood"
+        ],
+        "movie_stars": [
+            "Clark Gable",
+            "Vivien Leigh",
+            "Thomas Mitchell"
+        ]
+    },
+    {
+        "title": "Chinatown",
+        "year": 1974,
+        "rating": 8.1,
+        "directors": [
+            "Roman Polanski"
+        ],
+        "movie_stars": [
+            "Jack Nicholson",
+            "Faye Dunaway",
+            "John Huston"
+        ]
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": 2009,
+        "rating": 8.2,
+        "directors": [
+            "Juan Jos\u00e9 Campanella"
+        ],
+        "movie_stars": [
+            "Ricardo Dar\u00edn",
+            "Soledad Villamil",
+            "Pablo Rago"
+        ]
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "rating": 8.1,
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "movie_stars": [
+            "Jason Flemyng",
+            "Dexter Fletcher",
+            "Nick Moran"
+        ]
+    },
+    {
+        "title": "Inside Out",
+        "year": 2015,
+        "rating": 8.1,
+        "directors": [
+            "Pete Docter",
+            "Ronnie Del Carmen"
+        ],
+        "movie_stars": [
+            "Amy Poehler",
+            "Bill Hader",
+            "Lewis Black"
+        ]
+    },
+    {
+        "title": "V for Vendetta",
+        "year": 2005,
+        "rating": 8.1,
+        "directors": [
+            "James McTeigue"
+        ],
+        "movie_stars": [
+            "Hugo Weaving",
+            "Natalie Portman",
+            "Rupert Graves"
+        ]
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rating": 8.1,
+        "directors": [
+            "Martin McDonagh"
+        ],
+        "movie_stars": [
+            "Frances McDormand",
+            "Woody Harrelson",
+            "Sam Rockwell"
+        ]
+    },
+    {
+        "title": "Raging Bull",
+        "year": 1980,
+        "rating": 8.1,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "Cathy Moriarty",
+            "Joe Pesci"
+        ]
+    },
+    {
+        "title": "Trainspotting",
+        "year": 1996,
+        "rating": 8.1,
+        "directors": [
+            "Danny Boyle"
+        ],
+        "movie_stars": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "rating": 8.1,
+        "directors": [
+            "David Lean"
+        ],
+        "movie_stars": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
+        ]
+    },
+    {
+        "title": "Klaus",
+        "year": 2019,
+        "rating": 8.2,
+        "directors": [
+            "Sergio Pablos",
+            "Carlos Mart\u00ednez L\u00f3pez"
+        ],
+        "movie_stars": [
+            "Jason Schwartzman",
+            "J.K. Simmons",
+            "Rashida Jones"
+        ]
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "rating": 8.1,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken"
+        ]
+    },
+    {
+        "title": "Fargo",
+        "year": 1996,
+        "rating": 8.1,
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "movie_stars": [
+            "William H. Macy",
+            "Frances McDormand",
+            "Steve Buscemi"
+        ]
+    },
+    {
+        "title": "Warrior",
+        "year": 2011,
+        "rating": 8.1,
+        "directors": [
+            "Gavin O'Connor"
+        ],
+        "movie_stars": [
+            "Tom Hardy",
+            "Nick Nolte",
+            "Joel Edgerton"
+        ]
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "rating": 8.2,
+        "directors": [
+            "Jon Watts"
+        ],
+        "movie_stars": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch"
+        ]
+    },
+    {
+        "title": "Gran Torino",
+        "year": 2008,
+        "rating": 8.1,
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "movie_stars": [
+            "Clint Eastwood",
+            "Bee Vang",
+            "Christopher Carley"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "rating": 8.1,
+        "directors": [
+            "David Yates"
+        ],
+        "movie_stars": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ]
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": 2004,
+        "rating": 8.1,
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "movie_stars": [
+            "Hilary Swank",
+            "Clint Eastwood",
+            "Morgan Freeman"
+        ]
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": 1988,
+        "rating": 8.1,
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "movie_stars": [
+            "Hitoshi Takagi",
+            "Noriko Hidaka",
+            "Chika Sakamoto"
+        ]
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "rating": 8.1,
+        "directors": [
+            "George Miller"
+        ],
+        "movie_stars": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ]
+    },
+    {
+        "title": "Children of Heaven",
+        "year": 1997,
+        "rating": 8.2,
+        "directors": [
+            "Majid Majidi"
+        ],
+        "movie_stars": [
+            "Mohammad Amir Naji",
+            "Amir Farrokh Hashemian",
+            "Bahare Seddiqi"
+        ]
+    },
+    {
+        "title": "Ben-Hur",
+        "year": 1959,
+        "rating": 8.1,
+        "directors": [
+            "William Wyler"
+        ],
+        "movie_stars": [
+            "Charlton Heston",
+            "Jack Hawkins",
+            "Stephen Boyd"
+        ]
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": 1975,
+        "rating": 8.1,
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "movie_stars": [
+            "Ryan O'Neal",
+            "Marisa Berenson",
+            "Patrick Magee"
+        ]
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "rating": 8.1,
+        "directors": [
+            "Steve McQueen"
+        ],
+        "movie_stars": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender"
+        ]
+    },
+    {
+        "title": "Before Sunrise",
+        "year": 1995,
+        "rating": 8.1,
+        "directors": [
+            "Richard Linklater"
+        ],
+        "movie_stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Andrea Eckert"
+        ]
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "rating": 8.1,
+        "directors": [
+            "Ridley Scott"
+        ],
+        "movie_stars": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ]
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": 8.1,
+        "directors": [
+            "Wes Anderson"
+        ],
+        "movie_stars": [
+            "Ralph Fiennes",
+            "F. Murray Abraham",
+            "Mathieu Amalric"
+        ]
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": 8.1,
+        "directors": [
+            "Mel Gibson"
+        ],
+        "movie_stars": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey"
+        ]
+    },
+    {
+        "title": "Gone Girl",
+        "year": 2014,
+        "rating": 8.1,
+        "directors": [
+            "David Fincher"
+        ],
+        "movie_stars": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris"
+        ]
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": 1989,
+        "rating": 8.1,
+        "directors": [
+            "Peter Weir"
+        ],
+        "movie_stars": [
+            "Robin Williams",
+            "Robert Sean Leonard",
+            "Ethan Hawke"
+        ]
+    },
+    {
+        "title": "Memories of Murder",
+        "year": 2003,
+        "rating": 8.1,
+        "directors": [
+            "Bong Joon Ho"
+        ],
+        "movie_stars": [
+            "Song Kang-ho",
+            "Kim Sang-kyung",
+            "Kim Roe-ha"
+        ]
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "rating": 8.1,
+        "directors": [
+            "Jim Sheridan"
+        ],
+        "movie_stars": [
+            "Daniel Day-Lewis",
+            "Pete Postlethwaite",
+            "Alison Crosbie"
+        ]
+    },
+    {
+        "title": "Maharaja",
+        "year": 2024,
+        "rating": 8.5,
+        "directors": [
+            "Nithilan Saminathan"
+        ],
+        "movie_stars": [
+            "Vijay Sethupathi",
+            "Anurag Kashyap",
+            "Mamta Mohandas"
+        ]
+    },
+    {
+        "title": "The Gold Rush",
+        "year": 1925,
+        "rating": 8.1,
+        "directors": [
+            "Charles Chaplin"
+        ],
+        "movie_stars": [
+            "Charles Chaplin",
+            "Mack Swain",
+            "Tom Murray"
+        ]
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "rating": 8.1,
+        "directors": [
+            "Pete Docter",
+            "David Silverman",
+            "Lee Unkrich"
+        ],
+        "movie_stars": [
+            "Billy Crystal",
+            "John Goodman",
+            "Mary Gibbs"
+        ]
+    },
+    {
+        "title": "Wild Tales",
+        "year": 2014,
+        "rating": 8.1,
+        "directors": [
+            "Dami\u00e1n Szifron"
+        ],
+        "movie_stars": [
+            "Dar\u00edo Grandinetti",
+            "Mar\u00eda Marull",
+            "M\u00f3nica Villa"
+        ]
+    },
+    {
+        "title": "Ratatouille",
+        "year": 2007,
+        "rating": 8.1,
+        "directors": [
+            "Brad Bird",
+            "Jan Pinkava"
+        ],
+        "movie_stars": [
+            "Brad Garrett",
+            "Lou Romano",
+            "Patton Oswalt"
+        ]
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": 1978,
+        "rating": 8.1,
+        "directors": [
+            "Michael Cimino"
+        ],
+        "movie_stars": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "rating": 8.1,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Roy Scheider",
+            "Robert Shaw",
+            "Richard Dreyfuss"
+        ]
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "rating": 8.1,
+        "directors": [
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
+        "movie_stars": [
+            "Jay Baruchel",
+            "Gerard Butler",
+            "Christopher Mintz-Plasse"
+        ]
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "rating": 8.2,
+        "directors": [
+            "Buster Keaton"
+        ],
+        "movie_stars": [
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton"
+        ]
+    },
+    {
+        "title": "The General",
+        "year": 1926,
+        "rating": 8.1,
+        "directors": [
+            "Clyde Bruckman",
+            "Buster Keaton"
+        ],
+        "movie_stars": [
+            "Buster Keaton",
+            "Marion Mack",
+            "Glen Cavender"
+        ]
+    },
+    {
+        "title": "Mary and Max",
+        "year": 2009,
+        "rating": 8.1,
+        "directors": [
+            "Adam Elliot"
+        ],
+        "movie_stars": [
+            "Toni Collette",
+            "Philip Seymour Hoffman",
+            "Eric Bana"
+        ]
+    },
+    {
+        "title": "On the Waterfront",
+        "year": 1954,
+        "rating": 8.1,
+        "directors": [
+            "Elia Kazan"
+        ],
+        "movie_stars": [
+            "Marlon Brando",
+            "Karl Malden",
+            "Lee J. Cobb"
+        ]
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": 1953,
+        "rating": 8.1,
+        "directors": [
+            "Henri-Georges Clouzot"
+        ],
+        "movie_stars": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Peter van Eyck"
+        ]
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "rating": 8.1,
+        "directors": [
+            "James Mangold"
+        ],
+        "movie_stars": [
+            "Matt Damon",
+            "Christian Bale",
+            "Jon Bernthal"
+        ]
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": 1957,
+        "rating": 8.1,
+        "directors": [
+            "Ingmar Bergman"
+        ],
+        "movie_stars": [
+            "Victor Sj\u00f6str\u00f6m",
+            "Bibi Andersson",
+            "Ingrid Thulin"
+        ]
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": 1939,
+        "rating": 8.1,
+        "directors": [
+            "Frank Capra"
+        ],
+        "movie_stars": [
+            "James Stewart",
+            "Jean Arthur",
+            "Claude Rains"
+        ]
+    },
+    {
+        "title": "The Third Man",
+        "year": 1949,
+        "rating": 8.1,
+        "directors": [
+            "Carol Reed"
+        ],
+        "movie_stars": [
+            "Orson Welles",
+            "Joseph Cotten",
+            "Alida Valli"
+        ]
+    },
+    {
+        "title": "Logan",
+        "year": 2017,
+        "rating": 8.1,
+        "directors": [
+            "James Mangold"
+        ],
+        "movie_stars": [
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Dafne Keen"
+        ]
+    },
+    {
+        "title": "Rocky",
+        "year": 1976,
+        "rating": 8.1,
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "movie_stars": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young"
+        ]
+    },
+    {
+        "title": "Tokyo Story",
+        "year": 1953,
+        "rating": 8.1,
+        "directors": [
+            "Yasujir\u00f4 Ozu"
+        ],
+        "movie_stars": [
+            "Chish\u00fb Ry\u00fb",
+            "Chieko Higashiyama",
+            "S\u00f4 Yamamura"
+        ]
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "rating": 8.1,
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "movie_stars": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore"
+        ]
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": 1957,
+        "rating": 8.1,
+        "directors": [
+            "Ingmar Bergman"
+        ],
+        "movie_stars": [
+            "Max von Sydow",
+            "Gunnar Bj\u00f6rnstrand",
+            "Bengt Ekerot"
+        ]
+    },
+    {
+        "title": "Room",
+        "year": 2015,
+        "rating": 8.1,
+        "directors": [
+            "Lenny Abrahamson"
+        ],
+        "movie_stars": [
+            "Brie Larson",
+            "Jacob Tremblay",
+            "Sean Bridgers"
+        ]
+    },
+    {
+        "title": "Spotlight",
+        "year": 2015,
+        "rating": 8.1,
+        "directors": [
+            "Tom McCarthy"
+        ],
+        "movie_stars": [
+            "Mark Ruffalo",
+            "Michael Keaton",
+            "Rachel McAdams"
+        ]
+    },
+    {
+        "title": "The Terminator",
+        "year": 1984,
+        "rating": 8.1,
+        "directors": [
+            "James Cameron"
+        ],
+        "movie_stars": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Michael Biehn"
+        ]
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": 2004,
+        "rating": 8.1,
+        "directors": [
+            "Terry George"
+        ],
+        "movie_stars": [
+            "Don Cheadle",
+            "Sophie Okonedo",
+            "Joaquin Phoenix"
+        ]
+    },
+    {
+        "title": "Platoon",
+        "year": 1986,
+        "rating": 8.1,
+        "directors": [
+            "Oliver Stone"
+        ],
+        "movie_stars": [
+            "Charlie Sheen",
+            "Tom Berenger",
+            "Willem Dafoe"
+        ]
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "rating": 8.1,
+        "directors": [
+            "Gore Verbinski"
+        ],
+        "movie_stars": [
+            "Johnny Depp",
+            "Geoffrey Rush",
+            "Orlando Bloom"
+        ]
+    },
+    {
+        "title": "La haine",
+        "year": 1995,
+        "rating": 8.1,
+        "directors": [
+            "Mathieu Kassovitz"
+        ],
+        "movie_stars": [
+            "Vincent Cassel",
+            "Hubert Kound\u00e9",
+            "Sa\u00efd Taghmaoui"
+        ]
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "rating": 8.1,
+        "directors": [
+            "Richard Linklater"
+        ],
+        "movie_stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Vernon Dobtcheff"
+        ]
+    },
+    {
+        "title": "Jai Bhim",
+        "year": 2021,
+        "rating": 8.7,
+        "directors": [
+            "T.J. Gnanavel"
+        ],
+        "movie_stars": [
+            "Suriya",
+            "Lijo Mol Jose",
+            "Manikandan K."
+        ]
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": 1928,
+        "rating": 8.1,
+        "directors": [
+            "Carl Theodor Dreyer"
+        ],
+        "movie_stars": [
+            "Maria Falconetti",
+            "Eugene Silvain",
+            "Andr\u00e9 Berley"
+        ]
+    },
+    {
+        "title": "A Man Escaped",
+        "year": 1956,
+        "rating": 8.2,
+        "directors": [
+            "Robert Bresson"
+        ],
+        "movie_stars": [
+            "Fran\u00e7ois Leterrier",
+            "Charles Le Clainche",
+            "Maurice Beerblock"
+        ]
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": 1946,
+        "rating": 8.1,
+        "directors": [
+            "William Wyler"
+        ],
+        "movie_stars": [
+            "Myrna Loy",
+            "Dana Andrews",
+            "Fredric March"
+        ]
+    },
+    {
+        "title": "The Exorcist",
+        "year": 1973,
+        "rating": 8.1,
+        "directors": [
+            "William Friedkin"
+        ],
+        "movie_stars": [
+            "Ellen Burstyn",
+            "Max von Sydow",
+            "Linda Blair"
+        ]
+    },
+    {
+        "title": "Rush",
+        "year": 2013,
+        "rating": 8.1,
+        "directors": [
+            "Ron Howard"
+        ],
+        "movie_stars": [
+            "Daniel Br\u00fchl",
+            "Chris Hemsworth",
+            "Olivia Wilde"
+        ]
+    },
+    {
+        "title": "The Incredibles",
+        "year": 2004,
+        "rating": 8.0,
+        "directors": [
+            "Brad Bird"
+        ],
+        "movie_stars": [
+            "Craig T. Nelson",
+            "Samuel L. Jackson",
+            "Holly Hunter"
+        ]
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": 1939,
+        "rating": 8.1,
+        "directors": [
+            "Victor Fleming",
+            "King Vidor"
+        ],
+        "movie_stars": [
+            "Judy Garland",
+            "Frank Morgan",
+            "Ray Bolger"
+        ]
+    },
+    {
+        "title": "Network",
+        "year": 1976,
+        "rating": 8.1,
+        "directors": [
+            "Sidney Lumet"
+        ],
+        "movie_stars": [
+            "Faye Dunaway",
+            "William Holden",
+            "Peter Finch"
+        ]
+    },
+    {
+        "title": "Stand by Me",
+        "year": 1986,
+        "rating": 8.1,
+        "directors": [
+            "Rob Reiner"
+        ],
+        "movie_stars": [
+            "Wil Wheaton",
+            "River Phoenix",
+            "Corey Feldman"
+        ]
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": 2009,
+        "rating": 8.1,
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "movie_stars": [
+            "Richard Gere",
+            "Joan Allen",
+            "Cary-Hiroyuki Tagawa"
+        ]
+    },
+    {
+        "title": "The Sound of Music",
+        "year": 1965,
+        "rating": 8.1,
+        "directors": [
+            "Robert Wise"
+        ],
+        "movie_stars": [
+            "Julie Andrews",
+            "Christopher Plummer",
+            "Eleanor Parker"
+        ]
+    },
+    {
+        "title": "My Father and My Son",
+        "year": 2005,
+        "rating": 8.2,
+        "directors": [
+            "\u00c7agan Irmak"
+        ],
+        "movie_stars": [
+            "\u00c7etin Tekindor",
+            "Fikret Kuskan",
+            "H\u00fcmeyra"
+        ]
+    },
+    {
+        "title": "The Handmaiden",
+        "year": 2016,
+        "rating": 8.1,
+        "directors": [
+            "Park Chan-wook"
+        ],
+        "movie_stars": [
+            "Kim Min-hee",
+            "Ha Jung-woo",
+            "Cho Jin-woong"
+        ]
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": 1942,
+        "rating": 8.1,
+        "directors": [
+            "Ernst Lubitsch"
+        ],
+        "movie_stars": [
+            "Carole Lombard",
+            "Jack Benny",
+            "Robert Stack"
+        ]
+    },
+    {
+        "title": "Into the Wild",
+        "year": 2007,
+        "rating": 8.1,
+        "directors": [
+            "Sean Penn"
+        ],
+        "movie_stars": [
+            "Emile Hirsch",
+            "Vince Vaughn",
+            "Catherine Keener"
+        ]
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": 1966,
+        "rating": 8.1,
+        "directors": [
+            "Gillo Pontecorvo"
+        ],
+        "movie_stars": [
+            "Brahim Hadjadj",
+            "Jean Martin",
+            "Yacef Saadi"
+        ]
+    },
+    {
+        "title": "The Iron Giant",
+        "year": 1999,
+        "rating": 8.1,
+        "directors": [
+            "Brad Bird"
+        ],
+        "movie_stars": [
+            "Eli Marienthal",
+            "Harry Connick Jr.",
+            "Jennifer Aniston"
+        ]
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": 1940,
+        "rating": 8.1,
+        "directors": [
+            "John Ford"
+        ],
+        "movie_stars": [
+            "Henry Fonda",
+            "Jane Darwell",
+            "John Carradine"
+        ]
+    },
+    {
+        "title": "Groundhog Day",
+        "year": 1993,
+        "rating": 8.0,
+        "directors": [
+            "Harold Ramis"
+        ],
+        "movie_stars": [
+            "Bill Murray",
+            "Andie MacDowell",
+            "Chris Elliott"
+        ]
+    },
+    {
+        "title": "Amores Perros",
+        "year": 2000,
+        "rating": 8.0,
+        "directors": [
+            "Alejandro G. I\u00f1\u00e1rritu"
+        ],
+        "movie_stars": [
+            "Emilio Echevarr\u00eda",
+            "Gael Garc\u00eda Bernal",
+            "Goya Toledo"
+        ]
+    },
+    {
+        "title": "Rebecca",
+        "year": 1940,
+        "rating": 8.1,
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "movie_stars": [
+            "Laurence Olivier",
+            "Joan Fontaine",
+            "George Sanders"
+        ]
+    },
+    {
+        "title": "The Help",
+        "year": 2011,
+        "rating": 8.1,
+        "directors": [
+            "Tate Taylor"
+        ],
+        "movie_stars": [
+            "Viola Davis",
+            "Emma Stone",
+            "Octavia Spencer"
+        ]
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "rating": 8.1,
+        "directors": [
+            "Stuart Rosenberg"
+        ],
+        "movie_stars": [
+            "Paul Newman",
+            "George Kennedy",
+            "Strother Martin"
+        ]
+    },
+    {
+        "title": "Paris, Texas",
+        "year": 1984,
+        "rating": 8.1,
+        "directors": [
+            "Wim Wenders"
+        ],
+        "movie_stars": [
+            "Harry Dean Stanton",
+            "Nastassja Kinski",
+            "Dean Stockwell"
+        ]
+    },
+    {
+        "title": "It Happened One Night",
+        "year": 1934,
+        "rating": 8.1,
+        "directors": [
+            "Frank Capra"
+        ],
+        "movie_stars": [
+            "Clark Gable",
+            "Claudette Colbert",
+            "Walter Connolly"
+        ]
+    }
+]
