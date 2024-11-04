@@ -471,6 +471,19 @@
         ]
     },
     {
+        "title": "The Departed",
+        "year": 2006,
+        "rating": 8.5,
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "movie_stars": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ]
+    },
+    {
         "title": "Spider-Man: Across the Spider-Verse",
         "year": 2023,
         "rating": 8.6,
@@ -483,19 +496,6 @@
             "Shameik Moore",
             "Hailee Steinfeld",
             "Brian Tyree Henry"
-        ]
-    },
-    {
-        "title": "The Departed",
-        "year": 2006,
-        "rating": 8.5,
-        "directors": [
-            "Martin Scorsese"
-        ],
-        "movie_stars": [
-            "Leonardo DiCaprio",
-            "Matt Damon",
-            "Jack Nicholson"
         ]
     },
     {
@@ -603,19 +603,6 @@
         ]
     },
     {
-        "title": "Dune: Part Two",
-        "year": 2024,
-        "rating": 8.5,
-        "directors": [
-            "Denis Villeneuve"
-        ],
-        "movie_stars": [
-            "Timoth\u00e9e Chalamet",
-            "Zendaya",
-            "Rebecca Ferguson"
-        ]
-    },
-    {
         "title": "The Intouchables",
         "year": 2011,
         "rating": 8.5,
@@ -627,6 +614,19 @@
             "Fran\u00e7ois Cluzet",
             "Omar Sy",
             "Anne Le Ny"
+        ]
+    },
+    {
+        "title": "Dune: Part Two",
+        "year": 2024,
+        "rating": 8.5,
+        "directors": [
+            "Denis Villeneuve"
+        ],
+        "movie_stars": [
+            "Timoth\u00e9e Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
         ]
     },
     {
@@ -773,19 +773,6 @@
         ]
     },
     {
-        "title": "The Lives of Others",
-        "year": 2006,
-        "rating": 8.4,
-        "directors": [
-            "Florian Henckel von Donnersmarck"
-        ],
-        "movie_stars": [
-            "Ulrich M\u00fche",
-            "Martina Gedeck",
-            "Sebastian Koch"
-        ]
-    },
-    {
         "title": "12th Fail",
         "year": 2023,
         "rating": 8.8,
@@ -796,6 +783,19 @@
             "Vikrant Massey",
             "Medha Shankr",
             "Anant Joshi"
+        ]
+    },
+    {
+        "title": "The Lives of Others",
+        "year": 2006,
+        "rating": 8.4,
+        "directors": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "movie_stars": [
+            "Ulrich M\u00fche",
+            "Martina Gedeck",
+            "Sebastian Koch"
         ]
     },
     {
@@ -1171,7 +1171,7 @@
     {
         "title": "Come and See",
         "year": 1985,
-        "rating": 8.4,
+        "rating": 8.3,
         "directors": [
             "Elem Klimov"
         ],
@@ -1952,19 +1952,6 @@
         ]
     },
     {
-        "title": "A Beautiful Mind",
-        "year": 2001,
-        "rating": 8.2,
-        "directors": [
-            "Ron Howard"
-        ],
-        "movie_stars": [
-            "Russell Crowe",
-            "Ed Harris",
-            "Jennifer Connelly"
-        ]
-    },
-    {
         "title": "The Wild Robot",
         "year": 2024,
         "rating": 8.3,
@@ -1975,6 +1962,19 @@
             "Lupita Nyong'o",
             "Pedro Pascal",
             "Kit Connor"
+        ]
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "rating": 8.2,
+        "directors": [
+            "Ron Howard"
+        ],
+        "movie_stars": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
         ]
     },
     {
@@ -2414,19 +2414,6 @@
         ]
     },
     {
-        "title": "12 Years a Slave",
-        "year": 2013,
-        "rating": 8.1,
-        "directors": [
-            "Steve McQueen"
-        ],
-        "movie_stars": [
-            "Chiwetel Ejiofor",
-            "Michael Kenneth Williams",
-            "Michael Fassbender"
-        ]
-    },
-    {
         "title": "Barry Lyndon",
         "year": 1975,
         "rating": 8.1,
@@ -2437,6 +2424,19 @@
             "Ryan O'Neal",
             "Marisa Berenson",
             "Patrick Magee"
+        ]
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": 2013,
+        "rating": 8.1,
+        "directors": [
+            "Steve McQueen"
+        ],
+        "movie_stars": [
+            "Chiwetel Ejiofor",
+            "Michael Kenneth Williams",
+            "Michael Fassbender"
         ]
     },
     {
@@ -2652,6 +2652,19 @@
         ]
     },
     {
+        "title": "Sherlock Jr.",
+        "year": 1924,
+        "rating": 8.2,
+        "directors": [
+            "Buster Keaton"
+        ],
+        "movie_stars": [
+            "Buster Keaton",
+            "Kathryn McGuire",
+            "Joe Keaton"
+        ]
+    },
+    {
         "title": "The General",
         "year": 1926,
         "rating": 8.1,
@@ -2666,16 +2679,16 @@
         ]
     },
     {
-        "title": "Sherlock Jr.",
-        "year": 1924,
-        "rating": 8.2,
+        "title": "Mary and Max",
+        "year": 2009,
+        "rating": 8.1,
         "directors": [
-            "Buster Keaton"
+            "Adam Elliot"
         ],
         "movie_stars": [
-            "Buster Keaton",
-            "Kathryn McGuire",
-            "Joe Keaton"
+            "Toni Collette",
+            "Philip Seymour Hoffman",
+            "Eric Bana"
         ]
     },
     {
@@ -2689,19 +2702,6 @@
             "Marlon Brando",
             "Karl Malden",
             "Lee J. Cobb"
-        ]
-    },
-    {
-        "title": "Mary and Max",
-        "year": 2009,
-        "rating": 8.1,
-        "directors": [
-            "Adam Elliot"
-        ],
-        "movie_stars": [
-            "Toni Collette",
-            "Philip Seymour Hoffman",
-            "Eric Bana"
         ]
     },
     {
@@ -2927,19 +2927,6 @@
         ]
     },
     {
-        "title": "A Man Escaped",
-        "year": 1956,
-        "rating": 8.2,
-        "directors": [
-            "Robert Bresson"
-        ],
-        "movie_stars": [
-            "Fran\u00e7ois Leterrier",
-            "Charles Le Clainche",
-            "Maurice Beerblock"
-        ]
-    },
-    {
         "title": "Before Sunset",
         "year": 2004,
         "rating": 8.1,
@@ -2950,6 +2937,19 @@
             "Ethan Hawke",
             "Julie Delpy",
             "Vernon Dobtcheff"
+        ]
+    },
+    {
+        "title": "Jai Bhim",
+        "year": 2021,
+        "rating": 8.7,
+        "directors": [
+            "T.J. Gnanavel"
+        ],
+        "movie_stars": [
+            "Suriya",
+            "Lijo Mol Jose",
+            "Manikandan K."
         ]
     },
     {
@@ -2966,16 +2966,16 @@
         ]
     },
     {
-        "title": "Jai Bhim",
-        "year": 2021,
-        "rating": 8.7,
+        "title": "A Man Escaped",
+        "year": 1956,
+        "rating": 8.2,
         "directors": [
-            "T.J. Gnanavel"
+            "Robert Bresson"
         ],
         "movie_stars": [
-            "Suriya",
-            "Lijo Mol Jose",
-            "Manikandan K."
+            "Fran\u00e7ois Leterrier",
+            "Charles Le Clainche",
+            "Maurice Beerblock"
         ]
     },
     {
@@ -3253,6 +3253,19 @@
         ]
     },
     {
+        "title": "Paris, Texas",
+        "year": 1984,
+        "rating": 8.1,
+        "directors": [
+            "Wim Wenders"
+        ],
+        "movie_stars": [
+            "Harry Dean Stanton",
+            "Nastassja Kinski",
+            "Dean Stockwell"
+        ]
+    },
+    {
         "title": "It Happened One Night",
         "year": 1934,
         "rating": 8.1,
@@ -3263,20 +3276,6 @@
             "Clark Gable",
             "Claudette Colbert",
             "Walter Connolly"
-        ]
-    },
-    {
-        "title": "A Silent Voice: The Movie",
-        "year": 2016,
-        "rating": 8.1,
-        "directors": [
-            "Taichi Ishidate",
-            "Naoko Yamada"
-        ],
-        "movie_stars": [
-            "Miyu Irino",
-            "Saori Hayami",
-            "Aoi Y\u00fbki"
         ]
     }
 ]
