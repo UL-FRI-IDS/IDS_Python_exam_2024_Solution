@@ -6,21 +6,23 @@ Update the marked parts in this document with your answers. Implement Jupyter no
 
 **Part 1 and part 2 are standalone, but use the same data. The intended workflow is to produce a JSON file with all required data scraped in part 1 and use it to complete part 2.**
 
-**We provide a sample copy of the data that should be the result of part 1 in `failsafe.json` that you can use to solve part 2, so that you are not locked out of part 2 if you do not manage to scrape everything required in part 1.**
+**We provide a subset of the data that should be the result of part 1 in `sample.json` that you can use to solve part 2, so that you are not locked out of part 2 if you do not manage to scrape everything required in part 1.**
 
 ## 1. Environment setup
 
-Before you start working on the task, create an empty environment (e.g., using conda or virtualenv) which you will use for the tasks below. 
+Before you start working on the task, create an empty environment (e.g., using conda or virtualenv) which you will use for the tasks below.
+
 ```
 TODO: Add here all the commands you needed to enter to set up the environment.
 ```
 
-## 2. Implement part 1 (Web scraping)
+## 2. Implement data retrieval
 
-Implement web scraping of IMDB top 250 movies in `part1.ipynb` and save run version of the notebook, along with a single JSON file with all the data.
+Implement web scraping of IMDB top 250 movies in `01_data_retrieval.ipynb` and save the run version of the notebook, along with a single JSON file with all the data.
 
-## 3. Implement part 2 (...)
-...
+## 3. Implement data analysis
+
+Implement data exploration of IMDB top 250 movies in `02_data_exploration.ipynb` and save the run version of the notebook.
 
 ## 4. Make your work reproducible
 
@@ -32,4 +34,4 @@ Go through the instructions again and make sure that you implemented everything 
 
 - Your code runs, notebook shows outputs and is saved.
 - You updated all the marked parts of this *README.md*.
-- You added the two Jupyter notebooks (part1.ipynb and part2.ipynb), and the scraped data (single JSON file) along with the environment specification and pushed everythnig to the remote repository.
+- You implemented the two Jupyter notebooks (01_data_retrieval.ipynb and 02_data_exploration.ipynb), and the scraped data (single JSON file) along with the environment specification and pushed everything to the remote repository.
