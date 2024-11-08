@@ -1639,19 +1639,6 @@
         ]
     },
     {
-        "title": "Hamilton",
-        "year": 2020,
-        "rating": 8.3,
-        "directors": [
-            "Thomas Kail"
-        ],
-        "movie_stars": [
-            "Lin-Manuel Miranda",
-            "Phillipa Soo",
-            "Leslie Odom Jr."
-        ]
-    },
-    {
         "title": "Taxi Driver",
         "year": 1976,
         "rating": 8.2,
@@ -1662,6 +1649,19 @@
             "Robert De Niro",
             "Jodie Foster",
             "Cybill Shepherd"
+        ]
+    },
+    {
+        "title": "Hamilton",
+        "year": 2020,
+        "rating": 8.3,
+        "directors": [
+            "Thomas Kail"
+        ],
+        "movie_stars": [
+            "Lin-Manuel Miranda",
+            "Phillipa Soo",
+            "Leslie Odom Jr."
         ]
     },
     {
@@ -1795,19 +1795,6 @@
         ]
     },
     {
-        "title": "All About Eve",
-        "year": 1950,
-        "rating": 8.2,
-        "directors": [
-            "Joseph L. Mankiewicz"
-        ],
-        "movie_stars": [
-            "Bette Davis",
-            "Anne Baxter",
-            "George Sanders"
-        ]
-    },
-    {
         "title": "Shutter Island",
         "year": 2010,
         "rating": 8.2,
@@ -1818,6 +1805,19 @@
             "Leonardo DiCaprio",
             "Emily Mortimer",
             "Mark Ruffalo"
+        ]
+    },
+    {
+        "title": "All About Eve",
+        "year": 1950,
+        "rating": 8.2,
+        "directors": [
+            "Joseph L. Mankiewicz"
+        ],
+        "movie_stars": [
+            "Bette Davis",
+            "Anne Baxter",
+            "George Sanders"
         ]
     },
     {
@@ -2243,19 +2243,6 @@
         ]
     },
     {
-        "title": "The Bridge on the River Kwai",
-        "year": 1957,
-        "rating": 8.1,
-        "directors": [
-            "David Lean"
-        ],
-        "movie_stars": [
-            "William Holden",
-            "Alec Guinness",
-            "Jack Hawkins"
-        ]
-    },
-    {
         "title": "Klaus",
         "year": 2019,
         "rating": 8.2,
@@ -2267,6 +2254,19 @@
             "Jason Schwartzman",
             "J.K. Simmons",
             "Rashida Jones"
+        ]
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "rating": 8.1,
+        "directors": [
+            "David Lean"
+        ],
+        "movie_stars": [
+            "William Holden",
+            "Alec Guinness",
+            "Jack Hawkins"
         ]
     },
     {
@@ -2625,19 +2625,6 @@
         ]
     },
     {
-        "title": "Jaws",
-        "year": 1975,
-        "rating": 8.1,
-        "directors": [
-            "Steven Spielberg"
-        ],
-        "movie_stars": [
-            "Roy Scheider",
-            "Robert Shaw",
-            "Richard Dreyfuss"
-        ]
-    },
-    {
         "title": "How to Train Your Dragon",
         "year": 2010,
         "rating": 8.1,
@@ -2662,6 +2649,19 @@
             "Buster Keaton",
             "Kathryn McGuire",
             "Joe Keaton"
+        ]
+    },
+    {
+        "title": "Jaws",
+        "year": 1975,
+        "rating": 8.1,
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "movie_stars": [
+            "Roy Scheider",
+            "Robert Shaw",
+            "Richard Dreyfuss"
         ]
     },
     {
@@ -2927,19 +2927,6 @@
         ]
     },
     {
-        "title": "Before Sunset",
-        "year": 2004,
-        "rating": 8.1,
-        "directors": [
-            "Richard Linklater"
-        ],
-        "movie_stars": [
-            "Ethan Hawke",
-            "Julie Delpy",
-            "Vernon Dobtcheff"
-        ]
-    },
-    {
         "title": "Jai Bhim",
         "year": 2021,
         "rating": 8.7,
@@ -2950,6 +2937,19 @@
             "Suriya",
             "Lijo Mol Jose",
             "Manikandan K."
+        ]
+    },
+    {
+        "title": "Before Sunset",
+        "year": 2004,
+        "rating": 8.1,
+        "directors": [
+            "Richard Linklater"
+        ],
+        "movie_stars": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Vernon Dobtcheff"
         ]
     },
     {
@@ -2966,19 +2966,6 @@
         ]
     },
     {
-        "title": "A Man Escaped",
-        "year": 1956,
-        "rating": 8.2,
-        "directors": [
-            "Robert Bresson"
-        ],
-        "movie_stars": [
-            "Fran\u00e7ois Leterrier",
-            "Charles Le Clainche",
-            "Maurice Beerblock"
-        ]
-    },
-    {
         "title": "The Best Years of Our Lives",
         "year": 1946,
         "rating": 8.1,
@@ -2989,6 +2976,19 @@
             "Myrna Loy",
             "Dana Andrews",
             "Fredric March"
+        ]
+    },
+    {
+        "title": "A Man Escaped",
+        "year": 1956,
+        "rating": 8.2,
+        "directors": [
+            "Robert Bresson"
+        ],
+        "movie_stars": [
+            "Fran\u00e7ois Leterrier",
+            "Charles Le Clainche",
+            "Maurice Beerblock"
         ]
     },
     {
@@ -3266,16 +3266,17 @@
         ]
     },
     {
-        "title": "It Happened One Night",
-        "year": 1934,
+        "title": "A Silent Voice: The Movie",
+        "year": 2016,
         "rating": 8.1,
         "directors": [
-            "Frank Capra"
+            "Taichi Ishidate",
+            "Naoko Yamada"
         ],
         "movie_stars": [
-            "Clark Gable",
-            "Claudette Colbert",
-            "Walter Connolly"
+            "Miyu Irino",
+            "Saori Hayami",
+            "Aoi Y\u00fbki"
         ]
     }
 ]
